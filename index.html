@@ -369,9 +369,7 @@
     </main>
 
     <script>
-        // Supabase config
-        const SUPABASE_URL = 'https://qimeqzzawwiruggmltra.supabase.co';
-        const SUPABASE_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InFpbWVxenphd3dpcnVnZ21sdHJhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Njc2MTM3MTUsImV4cCI6MjA4MzE4OTcxNX0.gWBf3tdmLaKxzEP7w7tQBHuJH1uWTq3siiR391kGLGM';
+        // Data source: Local JSON files (generated from CSV sources)
 
         // Cell Renderers
         function scoreCellRenderer(params) {
@@ -469,43 +467,21 @@
             loadAllData();
         });
 
-        // Fetch data from Supabase
-        async function fetchFromSupabase(table, extraParams = '') {
+        // Fetch data from local JSON files
+        async function fetchJsonFile(filename) {
             try {
-                let allData = [];
-                let offset = 0;
-                const batchSize = 1000;
-                let hasMore = true;
-
-                while (hasMore) {
-                    const response = await fetch(
-                        `${SUPABASE_URL}/rest/v1/${table}?select=*${extraParams}&limit=${batchSize}&offset=${offset}`,
-                        {
-                            headers: {
-                                'apikey': SUPABASE_KEY,
-                                'Authorization': `Bearer ${SUPABASE_KEY}`
-                            }
-                        }
-                    );
-                    const batch = await response.json();
-                    if (Array.isArray(batch)) {
-                        allData = allData.concat(batch);
-                        hasMore = batch.length === batchSize;
-                        offset += batchSize;
-                    } else {
-                        hasMore = false;
-                    }
-                }
-                return allData;
+                const response = await fetch(filename);
+                if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+                return await response.json();
             } catch (error) {
-                console.error(`Error fetching from ${table}:`, error);
+                console.error(`Error fetching ${filename}:`, error);
                 return [];
             }
         }
 
         async function loadAllData() {
             // Load LinkedIn/Greek Product Companies
-            const linkedinData = await fetchFromSupabase('greek_founders', '&order=overall_weighted_score.desc.nullslast');
+            const linkedinData = await fetchJsonFile('greek_founders.json');
             linkedinGrid.setGridOption('rowData', linkedinData);
             document.getElementById('badge-linkedin').textContent = linkedinData.length;
 
@@ -513,12 +489,12 @@
             updateStats(linkedinData);
 
             // Load Harmonic
-            const harmonicData = await fetchFromSupabase('harmonic_founders', '&order=founder_score.desc.nullslast');
+            const harmonicData = await fetchJsonFile('harmonic_founders.json');
             harmonicGrid.setGridOption('rowData', harmonicData);
             document.getElementById('badge-harmonic').textContent = harmonicData.length;
 
             // Load Egg Accelerator
-            const eggData = await fetchFromSupabase('egg_accelerator', '&order=overall_weighted_score.desc.nullslast');
+            const eggData = await fetchJsonFile('egg_accelerator.json');
             eggGrid.setGridOption('rowData', eggData);
             document.getElementById('badge-egg').textContent = eggData.length;
         }
