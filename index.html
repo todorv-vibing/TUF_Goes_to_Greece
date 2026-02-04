@@ -78,28 +78,30 @@
         }
         .stats-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            grid-template-columns: repeat(4, 1fr);
             gap: 16px;
             max-width: 900px;
         }
         .stat-card {
-            background: rgba(255,255,255,0.15);
-            backdrop-filter: blur(10px);
-            border-radius: 12px;
-            padding: 20px;
-            border: 1px solid rgba(255,255,255,0.2);
+            background: #ffffff;
+            border-radius: 16px;
+            padding: 24px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            border-left: 4px solid #8B6B9B;
         }
         .stat-value {
-            font-size: clamp(28px, 4vw, 36px);
+            font-size: clamp(32px, 4vw, 42px);
             font-weight: 700;
-            color: #ffffff;
+            color: #1a1a2e;
             margin-bottom: 4px;
+            line-height: 1;
         }
         .stat-label {
-            font-size: 13px;
-            color: rgba(255,255,255,0.7);
+            font-size: 12px;
+            color: #666;
             text-transform: uppercase;
             letter-spacing: 0.5px;
+            font-weight: 500;
         }
 
         /* Tab Navigation */
@@ -131,10 +133,17 @@
             display: flex;
             align-items: center;
             gap: 8px;
+            border-radius: 8px 8px 0 0;
+            margin-bottom: -1px;
         }
-        .tab:hover { color: #8B6B9B; }
+        .tab:hover {
+            color: #8B6B9B;
+            background: #f8f5fa;
+        }
         .tab.active {
             color: #8B6B9B;
+            background: #f8f5fa;
+            font-weight: 600;
         }
         .tab.active::after {
             content: '';
@@ -144,7 +153,6 @@
             right: 0;
             height: 3px;
             background: #8B6B9B;
-            border-radius: 3px 3px 0 0;
         }
         .tab-badge {
             background: #E8D5E8;
@@ -188,6 +196,7 @@
             color: #666;
         }
         .source-banner.visible { display: flex; }
+        .source-banner.linkedin { background: #F5F0F7; color: #6B4B7B; }
         .source-banner.harmonic { background: #FDF2F3; color: #9B5B64; }
         .source-banner.egg { background: #F2F7F5; color: #4B7B6B; }
         .source-banner svg {
@@ -254,15 +263,38 @@
             display: block;
         }
 
-        /* Responsive */
+        /* Responsive - Tablet */
+        @media (max-width: 1024px) {
+            .stats-grid { grid-template-columns: repeat(2, 1fr); gap: 12px; }
+            .stat-card { padding: 16px; }
+            .stat-value { font-size: 28px; }
+        }
+
+        /* Responsive - Mobile */
         @media (max-width: 768px) {
-            .header { flex-wrap: wrap; gap: 8px; }
-            .hero { padding: 24px 16px; }
+            .header { flex-wrap: wrap; gap: 8px; padding: 12px 16px; }
+            .back-link { font-size: 12px; }
+            .hero { padding: 20px 16px; }
+            .hero-title { font-size: 24px; }
+            .hero-subtitle { font-size: 14px; margin-bottom: 16px; }
+            .stats-grid { grid-template-columns: repeat(2, 1fr); gap: 10px; max-width: 100%; }
+            .stat-card { padding: 14px; border-radius: 12px; }
+            .stat-value { font-size: 24px; }
+            .stat-label { font-size: 10px; }
+            .tab-container { padding: 0 12px; }
+            .tabs { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+            .tab { padding: 12px 14px; font-size: 13px; white-space: nowrap; }
+            .tab-badge { font-size: 10px; padding: 2px 6px; }
+            .main-content { padding: 12px; }
+            .source-banner { font-size: 12px; padding: 10px 12px; }
+            .grid-container { height: calc(100vh - 380px); min-height: 350px; }
+        }
+
+        /* Mobile - Hide less important columns */
+        @media (max-width: 640px) {
             .stats-grid { grid-template-columns: repeat(2, 1fr); }
-            .tabs { overflow-x: auto; }
-            .tab { padding: 12px 16px; white-space: nowrap; }
-            .main-content { padding: 16px; }
-            .grid-container { height: calc(100vh - 420px); }
+            .logo-text { font-size: 20px; }
+            .subtitle { font-size: 12px; }
         }
     </style>
 </head>
@@ -327,12 +359,12 @@
     <main class="main-content">
         <!-- LinkedIn/Greek Product Companies Panel -->
         <div class="tab-panel active" id="panel-linkedin">
-            <div class="source-banner">
+            <div class="source-banner linkedin visible">
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                     <circle cx="12" cy="12" r="10"/>
                     <path d="M12 16v-4M12 8h.01"/>
                 </svg>
-                <span>Showing product companies from LinkedIn founder scrape (last 2 years)</span>
+                <span>Product companies from LinkedIn founder scrape with full scoring (Founder + Product + Market)</span>
             </div>
             <div class="grid-container">
                 <div id="grid-linkedin" class="ag-theme-alpine" style="width: 100%; height: 100%;"></div>
@@ -393,42 +425,45 @@
         // Grid Instances
         let linkedinGrid, harmonicGrid, eggGrid;
 
+        // Check if mobile
+        const isMobile = window.innerWidth <= 768;
+
         // LinkedIn Grid Columns
         const linkedinColumns = [
-            { headerName: '#', valueGetter: params => params.node.rowIndex + 1, width: 60, pinned: 'left' },
-            { headerName: 'Company', field: 'company_name', flex: 1.5, filter: true, sortable: true },
-            { headerName: 'Website', field: 'company_website', cellRenderer: linkCellRenderer, width: 100 },
-            { headerName: 'Company LinkedIn', field: 'company_linkedin_url', cellRenderer: linkCellRenderer, width: 120 },
-            { headerName: 'Founder', field: 'founder_name', flex: 1, filter: true, sortable: true },
-            { headerName: 'Founder LinkedIn', field: 'person_linkedin_url', cellRenderer: linkCellRenderer, width: 130 },
-            { headerName: 'Overall', field: 'overall_weighted_score', cellRenderer: scoreCellRenderer, width: 90, sortable: true, sort: 'desc' },
-            { headerName: 'Founder', field: 'founder_score', cellRenderer: scoreCellRenderer, width: 90, sortable: true },
-            { headerName: 'Product', field: 'product_score', cellRenderer: scoreCellRenderer, width: 90, sortable: true },
-            { headerName: 'Market', field: 'market_opportunity_score', cellRenderer: scoreCellRenderer, width: 90, sortable: true },
-            { headerName: 'Traffic', field: 'total_visits', width: 90, sortable: true, valueFormatter: params => params.value ? params.value.toLocaleString() : '—' }
+            { headerName: '#', valueGetter: params => params.node.rowIndex + 1, width: 50, pinned: 'left' },
+            { headerName: 'Company', field: 'company_name', flex: 1.5, filter: true, sortable: true, minWidth: 120 },
+            { headerName: 'Website', field: 'company_website', cellRenderer: linkCellRenderer, width: 90, hide: isMobile },
+            { headerName: 'Co. LinkedIn', field: 'company_linkedin_url', cellRenderer: linkCellRenderer, width: 100, hide: isMobile },
+            { headerName: 'Founder', field: 'founder_name', flex: 1, filter: true, sortable: true, minWidth: 100, hide: isMobile },
+            { headerName: 'LinkedIn', field: 'person_linkedin_url', cellRenderer: linkCellRenderer, width: 90, hide: isMobile },
+            { headerName: 'Overall', field: 'overall_weighted_score', cellRenderer: scoreCellRenderer, width: 80, sortable: true, sort: 'desc' },
+            { headerName: 'Founder', field: 'founder_score', cellRenderer: scoreCellRenderer, width: 80, sortable: true, hide: isMobile },
+            { headerName: 'Product', field: 'product_score', cellRenderer: scoreCellRenderer, width: 80, sortable: true, hide: isMobile },
+            { headerName: 'Market', field: 'market_opportunity_score', cellRenderer: scoreCellRenderer, width: 80, sortable: true, hide: isMobile },
+            { headerName: 'Traffic', field: 'total_visits', width: 80, sortable: true, valueFormatter: params => params.value ? params.value.toLocaleString() : '—', hide: isMobile }
         ];
 
         // Harmonic Grid Columns
         const harmonicColumns = [
-            { headerName: '#', valueGetter: params => params.node.rowIndex + 1, width: 60, pinned: 'left' },
-            { headerName: 'Founder Name', field: 'full_name', flex: 1.5, filter: true, sortable: true },
-            { headerName: 'LinkedIn', field: 'linkedin_url', cellRenderer: linkCellRenderer, width: 120 },
-            { headerName: 'Education', field: 'education', flex: 2, filter: true },
-            { headerName: 'Founder Score', field: 'founder_score', cellRenderer: scoreCellRenderer, width: 120, sortable: true, sort: 'desc' }
+            { headerName: '#', valueGetter: params => params.node.rowIndex + 1, width: 50, pinned: 'left' },
+            { headerName: 'Founder Name', field: 'full_name', flex: 1.5, filter: true, sortable: true, minWidth: 120 },
+            { headerName: 'LinkedIn', field: 'linkedin_url', cellRenderer: linkCellRenderer, width: 90 },
+            { headerName: 'Education', field: 'education', flex: 2, filter: true, minWidth: 150, hide: isMobile },
+            { headerName: 'Score', field: 'founder_score', cellRenderer: scoreCellRenderer, width: 80, sortable: true, sort: 'desc' }
         ];
 
         // Egg Accelerator Grid Columns
         const eggColumns = [
-            { headerName: '#', valueGetter: params => params.node.rowIndex + 1, width: 60, pinned: 'left' },
-            { headerName: 'Company', field: 'company_name', flex: 1.5, filter: true, sortable: true },
-            { headerName: 'Website', field: 'company_website', cellRenderer: linkCellRenderer, width: 100 },
-            { headerName: 'Company LinkedIn', field: 'company_linkedin_url', cellRenderer: linkCellRenderer, width: 120 },
-            { headerName: 'Founder', field: 'founder_name', flex: 1, filter: true, sortable: true },
-            { headerName: 'Founder LinkedIn', field: 'person_linkedin_url', cellRenderer: linkCellRenderer, width: 130 },
-            { headerName: 'Overall', field: 'overall_weighted_score', cellRenderer: scoreCellRenderer, width: 90, sortable: true, sort: 'desc' },
-            { headerName: 'Founder', field: 'founder_score', cellRenderer: scoreCellRenderer, width: 90, sortable: true },
-            { headerName: 'Product', field: 'product_score', cellRenderer: scoreCellRenderer, width: 90, sortable: true },
-            { headerName: 'Market', field: 'market_opportunity_score', cellRenderer: scoreCellRenderer, width: 90, sortable: true }
+            { headerName: '#', valueGetter: params => params.node.rowIndex + 1, width: 50, pinned: 'left' },
+            { headerName: 'Company', field: 'company_name', flex: 1.5, filter: true, sortable: true, minWidth: 120 },
+            { headerName: 'Website', field: 'company_website', cellRenderer: linkCellRenderer, width: 90, hide: isMobile },
+            { headerName: 'Co. LinkedIn', field: 'company_linkedin_url', cellRenderer: linkCellRenderer, width: 100, hide: isMobile },
+            { headerName: 'Founder', field: 'founder_name', flex: 1, filter: true, sortable: true, minWidth: 100, hide: isMobile },
+            { headerName: 'LinkedIn', field: 'person_linkedin_url', cellRenderer: linkCellRenderer, width: 90, hide: isMobile },
+            { headerName: 'Overall', field: 'overall_weighted_score', cellRenderer: scoreCellRenderer, width: 80, sortable: true, sort: 'desc' },
+            { headerName: 'Founder', field: 'founder_score', cellRenderer: scoreCellRenderer, width: 80, sortable: true, hide: isMobile },
+            { headerName: 'Product', field: 'product_score', cellRenderer: scoreCellRenderer, width: 80, sortable: true, hide: isMobile },
+            { headerName: 'Market', field: 'market_opportunity_score', cellRenderer: scoreCellRenderer, width: 80, sortable: true, hide: isMobile }
         ];
 
         // Initialize Grids
