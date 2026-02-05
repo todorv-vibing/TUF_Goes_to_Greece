@@ -11,8 +11,7 @@
     "founder_score": 9,
     "product_score": 8,
     "market_opportunity_score": 8,
-    "overall_weighted_score": 8.450000000000001,
-    "total_visits": null
+    "overall_weighted_score": 8.450000000000001
   },
   {
     "first_name": "Spiros",
@@ -26,8 +25,7 @@
     "founder_score": 9,
     "product_score": 9,
     "market_opportunity_score": 7,
-    "overall_weighted_score": 8.1,
-    "total_visits": null
+    "overall_weighted_score": 8.1
   },
   {
     "first_name": "Petros",
@@ -41,8 +39,7 @@
     "founder_score": 9,
     "product_score": 9,
     "market_opportunity_score": 7,
-    "overall_weighted_score": 8.1,
-    "total_visits": null
+    "overall_weighted_score": 8.1
   },
   {
     "first_name": "Giannis",
@@ -56,8 +53,7 @@
     "founder_score": 9,
     "product_score": 9,
     "market_opportunity_score": 7,
-    "overall_weighted_score": 8.1,
-    "total_visits": null
+    "overall_weighted_score": 8.1
   },
   {
     "first_name": "Dimitrios",
@@ -71,8 +67,7 @@
     "founder_score": 8,
     "product_score": 9,
     "market_opportunity_score": 8,
-    "overall_weighted_score": 8.1,
-    "total_visits": null
+    "overall_weighted_score": 8.1
   },
   {
     "first_name": "Dimitris",
@@ -86,8 +81,7 @@
     "founder_score": 9,
     "product_score": 9,
     "market_opportunity_score": 7,
-    "overall_weighted_score": 8.1,
-    "total_visits": null
+    "overall_weighted_score": 8.1
   },
   {
     "first_name": "Thomas",
@@ -101,8 +95,7 @@
     "founder_score": 8,
     "product_score": 8,
     "market_opportunity_score": 8,
-    "overall_weighted_score": 8,
-    "total_visits": null
+    "overall_weighted_score": 8
   },
   {
     "first_name": "Achilleas",
@@ -116,8 +109,7 @@
     "founder_score": 8,
     "product_score": 8,
     "market_opportunity_score": 8,
-    "overall_weighted_score": 8,
-    "total_visits": null
+    "overall_weighted_score": 8
   },
   {
     "first_name": "Marios",
@@ -131,23 +123,7 @@
     "founder_score": 8,
     "product_score": 8,
     "market_opportunity_score": 8,
-    "overall_weighted_score": 8,
-    "total_visits": null
-  },
-  {
-    "first_name": "Panagiotis",
-    "last_name": "Papadimitroulas",
-    "founder_name": "Panagiotis Papadimitroulas",
-    "company_linkedin_url": "https://www.linkedin.com/company/bioemtech/",
-    "company_name": "BIOEMTECH",
-    "company_website": "https://bioemtech.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/panagiotis-papadimitroulas-45773272",
-    "company_type": "product_company",
-    "founder_score": 3,
-    "product_score": 6,
-    "market_opportunity_score": null,
-    "overall_weighted_score": 8,
-    "total_visits": null
+    "overall_weighted_score": 8
   },
   {
     "first_name": "Peter",
@@ -161,8 +137,7 @@
     "founder_score": 9,
     "product_score": 8,
     "market_opportunity_score": 7,
-    "overall_weighted_score": 7.999999999999999,
-    "total_visits": null
+    "overall_weighted_score": 7.999999999999999
   },
   {
     "first_name": "Nikolina",
@@ -176,8 +151,7 @@
     "founder_score": 9,
     "product_score": 8,
     "market_opportunity_score": 7,
-    "overall_weighted_score": 7.999999999999999,
-    "total_visits": null
+    "overall_weighted_score": 7.999999999999999
   },
   {
     "first_name": "Vassilis",
@@ -191,8 +165,7 @@
     "founder_score": 9,
     "product_score": 8,
     "market_opportunity_score": 7,
-    "overall_weighted_score": 7.999999999999999,
-    "total_visits": null
+    "overall_weighted_score": 7.999999999999999
   },
   {
     "first_name": "Nikolas",
@@ -206,8 +179,7 @@
     "founder_score": 9,
     "product_score": 8,
     "market_opportunity_score": 7,
-    "overall_weighted_score": 7.999999999999999,
-    "total_visits": null
+    "overall_weighted_score": 7.999999999999999
   },
   {
     "first_name": "Dimitrios",
@@ -221,8 +193,7 @@
     "founder_score": 9,
     "product_score": 8,
     "market_opportunity_score": 7,
-    "overall_weighted_score": 7.999999999999999,
-    "total_visits": null
+    "overall_weighted_score": 7.999999999999999
   },
   {
     "first_name": "Marija",
@@ -236,8 +207,7 @@
     "founder_score": 9,
     "product_score": 8,
     "market_opportunity_score": 7,
-    "overall_weighted_score": 7.999999999999999,
-    "total_visits": null
+    "overall_weighted_score": 7.999999999999999
   },
   {
     "first_name": "Babis",
@@ -251,8 +221,7 @@
     "founder_score": 9,
     "product_score": 8,
     "market_opportunity_score": 7,
-    "overall_weighted_score": 7.999999999999999,
-    "total_visits": null
+    "overall_weighted_score": 7.999999999999999
   },
   {
     "first_name": "Grigorios",
@@ -266,8 +235,7 @@
     "founder_score": 9,
     "product_score": 8,
     "market_opportunity_score": 7,
-    "overall_weighted_score": 7.999999999999999,
-    "total_visits": null
+    "overall_weighted_score": 7.999999999999999
   },
   {
     "first_name": "Konstantinos",
@@ -281,8 +249,7 @@
     "founder_score": 8,
     "product_score": 9,
     "market_opportunity_score": 7,
-    "overall_weighted_score": 7.65,
-    "total_visits": null
+    "overall_weighted_score": 7.65
   },
   {
     "first_name": "Vasilis",
@@ -296,8 +263,7 @@
     "founder_score": 8,
     "product_score": 9,
     "market_opportunity_score": 7,
-    "overall_weighted_score": 7.65,
-    "total_visits": null
+    "overall_weighted_score": 7.65
   },
   {
     "first_name": "Orestis",
@@ -311,8 +277,7 @@
     "founder_score": 8,
     "product_score": 9,
     "market_opportunity_score": 7,
-    "overall_weighted_score": 7.65,
-    "total_visits": null
+    "overall_weighted_score": 7.65
   },
   {
     "first_name": "Vasileios",
@@ -326,8 +291,7 @@
     "founder_score": 9,
     "product_score": 8,
     "market_opportunity_score": 6,
-    "overall_weighted_score": 7.55,
-    "total_visits": null
+    "overall_weighted_score": 7.55
   },
   {
     "first_name": "Christos",
@@ -341,8 +305,7 @@
     "founder_score": 9,
     "product_score": 8,
     "market_opportunity_score": 6,
-    "overall_weighted_score": 7.55,
-    "total_visits": null
+    "overall_weighted_score": 7.55
   },
   {
     "first_name": "Panos",
@@ -356,8 +319,7 @@
     "founder_score": 9,
     "product_score": 8,
     "market_opportunity_score": 6,
-    "overall_weighted_score": 7.55,
-    "total_visits": null
+    "overall_weighted_score": 7.55
   },
   {
     "first_name": "Nikos",
@@ -371,8 +333,7 @@
     "founder_score": 9,
     "product_score": 8,
     "market_opportunity_score": 6,
-    "overall_weighted_score": 7.55,
-    "total_visits": null
+    "overall_weighted_score": 7.55
   },
   {
     "first_name": "Angie",
@@ -386,8 +347,7 @@
     "founder_score": 9,
     "product_score": 8,
     "market_opportunity_score": 6,
-    "overall_weighted_score": 7.55,
-    "total_visits": null
+    "overall_weighted_score": 7.55
   },
   {
     "first_name": "Guy",
@@ -401,8 +361,7 @@
     "founder_score": 8,
     "product_score": 8,
     "market_opportunity_score": 7,
-    "overall_weighted_score": 7.55,
-    "total_visits": null
+    "overall_weighted_score": 7.55
   },
   {
     "first_name": "Athanasios",
@@ -416,8 +375,7 @@
     "founder_score": 8,
     "product_score": 8,
     "market_opportunity_score": 7,
-    "overall_weighted_score": 7.55,
-    "total_visits": null
+    "overall_weighted_score": 7.55
   },
   {
     "first_name": "George",
@@ -431,8 +389,7 @@
     "founder_score": 8,
     "product_score": 8,
     "market_opportunity_score": 7,
-    "overall_weighted_score": 7.55,
-    "total_visits": null
+    "overall_weighted_score": 7.55
   },
   {
     "first_name": "Bill",
@@ -446,8 +403,7 @@
     "founder_score": 8,
     "product_score": 8,
     "market_opportunity_score": 7,
-    "overall_weighted_score": 7.55,
-    "total_visits": null
+    "overall_weighted_score": 7.55
   },
   {
     "first_name": "Stefanos",
@@ -461,8 +417,7 @@
     "founder_score": 8,
     "product_score": 8,
     "market_opportunity_score": 7,
-    "overall_weighted_score": 7.55,
-    "total_visits": null
+    "overall_weighted_score": 7.55
   },
   {
     "first_name": "Pavlos",
@@ -476,8 +431,7 @@
     "founder_score": 9,
     "product_score": 8,
     "market_opportunity_score": 6,
-    "overall_weighted_score": 7.55,
-    "total_visits": null
+    "overall_weighted_score": 7.55
   },
   {
     "first_name": "Kostas",
@@ -491,8 +445,7 @@
     "founder_score": 8,
     "product_score": 8,
     "market_opportunity_score": 7,
-    "overall_weighted_score": 7.55,
-    "total_visits": null
+    "overall_weighted_score": 7.55
   },
   {
     "first_name": "Alexia",
@@ -506,8 +459,7 @@
     "founder_score": 9,
     "product_score": 8,
     "market_opportunity_score": 6,
-    "overall_weighted_score": 7.55,
-    "total_visits": null
+    "overall_weighted_score": 7.55
   },
   {
     "first_name": "Mario",
@@ -521,8 +473,7 @@
     "founder_score": 9,
     "product_score": 7,
     "market_opportunity_score": 6,
-    "overall_weighted_score": 7.45,
-    "total_visits": null
+    "overall_weighted_score": 7.45
   },
   {
     "first_name": "Giannis",
@@ -536,8 +487,7 @@
     "founder_score": 9,
     "product_score": 7,
     "market_opportunity_score": 6,
-    "overall_weighted_score": 7.45,
-    "total_visits": null
+    "overall_weighted_score": 7.45
   },
   {
     "first_name": "Valentine",
@@ -551,8 +501,7 @@
     "founder_score": 8,
     "product_score": 7,
     "market_opportunity_score": 7,
-    "overall_weighted_score": 7.45,
-    "total_visits": null
+    "overall_weighted_score": 7.45
   },
   {
     "first_name": "Antonis",
@@ -566,8 +515,7 @@
     "founder_score": 9,
     "product_score": 7,
     "market_opportunity_score": 6,
-    "overall_weighted_score": 7.45,
-    "total_visits": null
+    "overall_weighted_score": 7.45
   },
   {
     "first_name": "Nikolas",
@@ -581,8 +529,7 @@
     "founder_score": 8,
     "product_score": 7,
     "market_opportunity_score": 7,
-    "overall_weighted_score": 7.45,
-    "total_visits": null
+    "overall_weighted_score": 7.45
   },
   {
     "first_name": "Alexandros",
@@ -596,8 +543,7 @@
     "founder_score": 7,
     "product_score": 9,
     "market_opportunity_score": 7,
-    "overall_weighted_score": 7.2,
-    "total_visits": null
+    "overall_weighted_score": 7.2
   },
   {
     "first_name": "Panos",
@@ -611,8 +557,7 @@
     "founder_score": 8,
     "product_score": 8,
     "market_opportunity_score": 6,
-    "overall_weighted_score": 7.1000000000000005,
-    "total_visits": null
+    "overall_weighted_score": 7.1000000000000005
   },
   {
     "first_name": "Kostas",
@@ -626,8 +571,7 @@
     "founder_score": 8,
     "product_score": 8,
     "market_opportunity_score": 6,
-    "overall_weighted_score": 7.1000000000000005,
-    "total_visits": null
+    "overall_weighted_score": 7.1000000000000005
   },
   {
     "first_name": "Sotirios",
@@ -641,8 +585,7 @@
     "founder_score": 8,
     "product_score": 8,
     "market_opportunity_score": 6,
-    "overall_weighted_score": 7.1000000000000005,
-    "total_visits": null
+    "overall_weighted_score": 7.1000000000000005
   },
   {
     "first_name": "Alexandros",
@@ -656,8 +599,7 @@
     "founder_score": 8,
     "product_score": 8,
     "market_opportunity_score": 6,
-    "overall_weighted_score": 7.1000000000000005,
-    "total_visits": null
+    "overall_weighted_score": 7.1000000000000005
   },
   {
     "first_name": "Konstantinos",
@@ -671,8 +613,7 @@
     "founder_score": 8,
     "product_score": 8,
     "market_opportunity_score": 6,
-    "overall_weighted_score": 7.1000000000000005,
-    "total_visits": null
+    "overall_weighted_score": 7.1000000000000005
   },
   {
     "first_name": "Sokratis",
@@ -686,8 +627,7 @@
     "founder_score": 7,
     "product_score": 8,
     "market_opportunity_score": 7,
-    "overall_weighted_score": 7.1,
-    "total_visits": null
+    "overall_weighted_score": 7.1
   },
   {
     "first_name": "Benoît",
@@ -701,8 +641,7 @@
     "founder_score": 7,
     "product_score": 8,
     "market_opportunity_score": 7,
-    "overall_weighted_score": 7.1,
-    "total_visits": null
+    "overall_weighted_score": 7.1
   },
   {
     "first_name": "Angelos",
@@ -716,8 +655,7 @@
     "founder_score": 7,
     "product_score": 8,
     "market_opportunity_score": 7,
-    "overall_weighted_score": 7.1,
-    "total_visits": null
+    "overall_weighted_score": 7.1
   },
   {
     "first_name": "Konstantinos",
@@ -731,8 +669,7 @@
     "founder_score": 9,
     "product_score": 8,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 7.1,
-    "total_visits": null
+    "overall_weighted_score": 7.1
   },
   {
     "first_name": "Dimitrios",
@@ -746,8 +683,7 @@
     "founder_score": 7,
     "product_score": 8,
     "market_opportunity_score": 7,
-    "overall_weighted_score": 7.1,
-    "total_visits": null
+    "overall_weighted_score": 7.1
   },
   {
     "first_name": "Rosa",
@@ -761,8 +697,7 @@
     "founder_score": 9,
     "product_score": 8,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 7.1,
-    "total_visits": null
+    "overall_weighted_score": 7.1
   },
   {
     "first_name": "Christos",
@@ -776,8 +711,7 @@
     "founder_score": 7,
     "product_score": 8,
     "market_opportunity_score": 7,
-    "overall_weighted_score": 7.1,
-    "total_visits": null
+    "overall_weighted_score": 7.1
   },
   {
     "first_name": "Konstantinos",
@@ -791,8 +725,7 @@
     "founder_score": 9,
     "product_score": 8,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 7.1,
-    "total_visits": null
+    "overall_weighted_score": 7.1
   },
   {
     "first_name": "Lucian",
@@ -806,8 +739,7 @@
     "founder_score": 7,
     "product_score": 8,
     "market_opportunity_score": 7,
-    "overall_weighted_score": 7.1,
-    "total_visits": null
+    "overall_weighted_score": 7.1
   },
   {
     "first_name": "Cristian",
@@ -821,8 +753,7 @@
     "founder_score": 9,
     "product_score": 8,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 7.1,
-    "total_visits": null
+    "overall_weighted_score": 7.1
   },
   {
     "first_name": "Vasileios",
@@ -836,8 +767,7 @@
     "founder_score": 8,
     "product_score": 7,
     "market_opportunity_score": 6,
-    "overall_weighted_score": 7.000000000000001,
-    "total_visits": null
+    "overall_weighted_score": 7.000000000000001
   },
   {
     "first_name": "Nikolaos",
@@ -851,8 +781,7 @@
     "founder_score": 8,
     "product_score": 7,
     "market_opportunity_score": 6,
-    "overall_weighted_score": 7.000000000000001,
-    "total_visits": null
+    "overall_weighted_score": 7.000000000000001
   },
   {
     "first_name": "Menelaos",
@@ -866,8 +795,7 @@
     "founder_score": 8,
     "product_score": 7,
     "market_opportunity_score": 6,
-    "overall_weighted_score": 7.000000000000001,
-    "total_visits": null
+    "overall_weighted_score": 7.000000000000001
   },
   {
     "first_name": "George",
@@ -881,8 +809,7 @@
     "founder_score": 8,
     "product_score": 7,
     "market_opportunity_score": 6,
-    "overall_weighted_score": 7.000000000000001,
-    "total_visits": null
+    "overall_weighted_score": 7.000000000000001
   },
   {
     "first_name": "Dimitrios",
@@ -896,8 +823,7 @@
     "founder_score": 6,
     "product_score": 7,
     "market_opportunity_score": 8,
-    "overall_weighted_score": 7.000000000000001,
-    "total_visits": null
+    "overall_weighted_score": 7.000000000000001
   },
   {
     "first_name": "Christos",
@@ -911,8 +837,7 @@
     "founder_score": 8,
     "product_score": 7,
     "market_opportunity_score": 6,
-    "overall_weighted_score": 7.000000000000001,
-    "total_visits": null
+    "overall_weighted_score": 7.000000000000001
   },
   {
     "first_name": "Mark",
@@ -926,23 +851,7 @@
     "founder_score": 7,
     "product_score": 7,
     "market_opportunity_score": 7,
-    "overall_weighted_score": 7,
-    "total_visits": null
-  },
-  {
-    "first_name": "Manolis",
-    "last_name": "Georgakopoulos",
-    "founder_name": "Manolis Georgakopoulos",
-    "company_linkedin_url": "https://www.linkedin.com/company/turboedit/",
-    "company_name": "TurboEdit",
-    "company_website": "https://turboedit.ai",
-    "person_linkedin_url": "https://www.linkedin.com/in/manolis-georgakopoulos-a448b3351",
-    "company_type": "product_company",
-    "founder_score": 4,
-    "product_score": null,
-    "market_opportunity_score": 8,
-    "overall_weighted_score": 7,
-    "total_visits": null
+    "overall_weighted_score": 7
   },
   {
     "first_name": "Elena",
@@ -956,8 +865,7 @@
     "founder_score": 9,
     "product_score": 6,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 6.9,
-    "total_visits": null
+    "overall_weighted_score": 6.9
   },
   {
     "first_name": "Georgios",
@@ -971,8 +879,7 @@
     "founder_score": 9,
     "product_score": 6,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 6.9,
-    "total_visits": null
+    "overall_weighted_score": 6.9
   },
   {
     "first_name": "Eleftherios",
@@ -986,8 +893,7 @@
     "founder_score": 9,
     "product_score": 5,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 6.8,
-    "total_visits": null
+    "overall_weighted_score": 6.8
   },
   {
     "first_name": "Konstantinos",
@@ -1001,8 +907,7 @@
     "founder_score": 8,
     "product_score": 9,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 6.75,
-    "total_visits": null
+    "overall_weighted_score": 6.75
   },
   {
     "first_name": "Panagiotis",
@@ -1016,8 +921,7 @@
     "founder_score": 5,
     "product_score": 8,
     "market_opportunity_score": 8,
-    "overall_weighted_score": 6.6499999999999995,
-    "total_visits": null
+    "overall_weighted_score": 6.6499999999999995
   },
   {
     "first_name": "Krystallia",
@@ -1031,8 +935,7 @@
     "founder_score": 8,
     "product_score": 8,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 6.6499999999999995,
-    "total_visits": null
+    "overall_weighted_score": 6.6499999999999995
   },
   {
     "first_name": "Antonis",
@@ -1046,8 +949,7 @@
     "founder_score": 8,
     "product_score": 8,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 6.6499999999999995,
-    "total_visits": null
+    "overall_weighted_score": 6.6499999999999995
   },
   {
     "first_name": "Victor",
@@ -1061,8 +963,7 @@
     "founder_score": 8,
     "product_score": 8,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 6.6499999999999995,
-    "total_visits": null
+    "overall_weighted_score": 6.6499999999999995
   },
   {
     "first_name": "Nikolaos",
@@ -1076,8 +977,7 @@
     "founder_score": 8,
     "product_score": 8,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 6.6499999999999995,
-    "total_visits": null
+    "overall_weighted_score": 6.6499999999999995
   },
   {
     "first_name": "Sophia",
@@ -1091,8 +991,7 @@
     "founder_score": 8,
     "product_score": 8,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 6.6499999999999995,
-    "total_visits": null
+    "overall_weighted_score": 6.6499999999999995
   },
   {
     "first_name": "Spyros",
@@ -1106,8 +1005,7 @@
     "founder_score": 7,
     "product_score": 8,
     "market_opportunity_score": 6,
-    "overall_weighted_score": 6.6499999999999995,
-    "total_visits": null
+    "overall_weighted_score": 6.6499999999999995
   },
   {
     "first_name": "Anastasia",
@@ -1121,8 +1019,7 @@
     "founder_score": 8,
     "product_score": 8,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 6.6499999999999995,
-    "total_visits": null
+    "overall_weighted_score": 6.6499999999999995
   },
   {
     "first_name": "Maria",
@@ -1136,8 +1033,7 @@
     "founder_score": 8,
     "product_score": 8,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 6.6499999999999995,
-    "total_visits": null
+    "overall_weighted_score": 6.6499999999999995
   },
   {
     "first_name": "Periklis",
@@ -1151,8 +1047,7 @@
     "founder_score": 7,
     "product_score": 8,
     "market_opportunity_score": 6,
-    "overall_weighted_score": 6.6499999999999995,
-    "total_visits": null
+    "overall_weighted_score": 6.6499999999999995
   },
   {
     "first_name": "Leonidas",
@@ -1166,8 +1061,7 @@
     "founder_score": 7,
     "product_score": 8,
     "market_opportunity_score": 6,
-    "overall_weighted_score": 6.6499999999999995,
-    "total_visits": null
+    "overall_weighted_score": 6.6499999999999995
   },
   {
     "first_name": "Theodoros",
@@ -1181,8 +1075,7 @@
     "founder_score": 8,
     "product_score": 7,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 6.55,
-    "total_visits": null
+    "overall_weighted_score": 6.55
   },
   {
     "first_name": "Konstantinos",
@@ -1196,8 +1089,7 @@
     "founder_score": 7,
     "product_score": 7,
     "market_opportunity_score": 6,
-    "overall_weighted_score": 6.55,
-    "total_visits": null
+    "overall_weighted_score": 6.55
   },
   {
     "first_name": "George",
@@ -1211,8 +1103,7 @@
     "founder_score": 8,
     "product_score": 7,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 6.55,
-    "total_visits": null
+    "overall_weighted_score": 6.55
   },
   {
     "first_name": "Pantelis",
@@ -1226,8 +1117,7 @@
     "founder_score": 7,
     "product_score": 7,
     "market_opportunity_score": 6,
-    "overall_weighted_score": 6.55,
-    "total_visits": null
+    "overall_weighted_score": 6.55
   },
   {
     "first_name": "Konstantinos",
@@ -1241,8 +1131,7 @@
     "founder_score": 8,
     "product_score": 7,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 6.55,
-    "total_visits": null
+    "overall_weighted_score": 6.55
   },
   {
     "first_name": "Stefanos",
@@ -1256,8 +1145,7 @@
     "founder_score": 8,
     "product_score": 7,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 6.55,
-    "total_visits": null
+    "overall_weighted_score": 6.55
   },
   {
     "first_name": "Zoe",
@@ -1271,8 +1159,7 @@
     "founder_score": 8,
     "product_score": 7,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 6.55,
-    "total_visits": null
+    "overall_weighted_score": 6.55
   },
   {
     "first_name": "Christina",
@@ -1286,8 +1173,7 @@
     "founder_score": 8,
     "product_score": 7,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 6.55,
-    "total_visits": null
+    "overall_weighted_score": 6.55
   },
   {
     "first_name": "Sofia",
@@ -1301,8 +1187,7 @@
     "founder_score": 8,
     "product_score": 7,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 6.55,
-    "total_visits": null
+    "overall_weighted_score": 6.55
   },
   {
     "first_name": "Thanos",
@@ -1316,8 +1201,7 @@
     "founder_score": 9,
     "product_score": 7,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 6.55,
-    "total_visits": null
+    "overall_weighted_score": 6.55
   },
   {
     "first_name": "Fotini",
@@ -1331,8 +1215,7 @@
     "founder_score": 9,
     "product_score": 6,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 6.449999999999999,
-    "total_visits": null
+    "overall_weighted_score": 6.449999999999999
   },
   {
     "first_name": "ANTONIS",
@@ -1346,8 +1229,7 @@
     "founder_score": 9,
     "product_score": 6,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 6.449999999999999,
-    "total_visits": null
+    "overall_weighted_score": 6.449999999999999
   },
   {
     "first_name": "Odysseas",
@@ -1361,8 +1243,7 @@
     "founder_score": 8,
     "product_score": 5,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 6.35,
-    "total_visits": null
+    "overall_weighted_score": 6.35
   },
   {
     "first_name": "Dimitris",
@@ -1376,8 +1257,7 @@
     "founder_score": 7,
     "product_score": 8,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 6.2,
-    "total_visits": null
+    "overall_weighted_score": 6.2
   },
   {
     "first_name": "Byron",
@@ -1391,8 +1271,7 @@
     "founder_score": 7,
     "product_score": 8,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 6.2,
-    "total_visits": null
+    "overall_weighted_score": 6.2
   },
   {
     "first_name": "Nikolas",
@@ -1406,8 +1285,7 @@
     "founder_score": 7,
     "product_score": 8,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 6.2,
-    "total_visits": null
+    "overall_weighted_score": 6.2
   },
   {
     "first_name": "Alexandra",
@@ -1421,8 +1299,7 @@
     "founder_score": 7,
     "product_score": 8,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 6.2,
-    "total_visits": null
+    "overall_weighted_score": 6.2
   },
   {
     "first_name": "Heidi",
@@ -1436,8 +1313,7 @@
     "founder_score": 7,
     "product_score": 8,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 6.2,
-    "total_visits": null
+    "overall_weighted_score": 6.2
   },
   {
     "first_name": "Stefanos",
@@ -1451,8 +1327,7 @@
     "founder_score": 8,
     "product_score": 8,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 6.2,
-    "total_visits": null
+    "overall_weighted_score": 6.2
   },
   {
     "first_name": "Konstantinos",
@@ -1466,8 +1341,7 @@
     "founder_score": 7,
     "product_score": 7,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 6.1000000000000005,
-    "total_visits": null
+    "overall_weighted_score": 6.1000000000000005
   },
   {
     "first_name": "Vasilis",
@@ -1481,8 +1355,7 @@
     "founder_score": 7,
     "product_score": 7,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 6.1000000000000005,
-    "total_visits": null
+    "overall_weighted_score": 6.1000000000000005
   },
   {
     "first_name": "James",
@@ -1496,8 +1369,7 @@
     "founder_score": 7,
     "product_score": 7,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 6.1000000000000005,
-    "total_visits": null
+    "overall_weighted_score": 6.1000000000000005
   },
   {
     "first_name": "George",
@@ -1511,8 +1383,7 @@
     "founder_score": 5,
     "product_score": 7,
     "market_opportunity_score": 7,
-    "overall_weighted_score": 6.1000000000000005,
-    "total_visits": null
+    "overall_weighted_score": 6.1000000000000005
   },
   {
     "first_name": "Christos",
@@ -1526,8 +1397,7 @@
     "founder_score": 7,
     "product_score": 7,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 6.1000000000000005,
-    "total_visits": null
+    "overall_weighted_score": 6.1000000000000005
   },
   {
     "first_name": "Leonidas",
@@ -1541,8 +1411,7 @@
     "founder_score": 9,
     "product_score": 7,
     "market_opportunity_score": 3,
-    "overall_weighted_score": 6.1000000000000005,
-    "total_visits": null
+    "overall_weighted_score": 6.1000000000000005
   },
   {
     "first_name": "Manolis",
@@ -1556,8 +1425,7 @@
     "founder_score": 7,
     "product_score": 7,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 6.1000000000000005,
-    "total_visits": null
+    "overall_weighted_score": 6.1000000000000005
   },
   {
     "first_name": "NIKOLAOS",
@@ -1571,8 +1439,7 @@
     "founder_score": 8,
     "product_score": 7,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 6.1000000000000005,
-    "total_visits": null
+    "overall_weighted_score": 6.1000000000000005
   },
   {
     "first_name": "Adam",
@@ -1586,8 +1453,7 @@
     "founder_score": 7,
     "product_score": 7,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 6.1000000000000005,
-    "total_visits": null
+    "overall_weighted_score": 6.1000000000000005
   },
   {
     "first_name": "Naomi",
@@ -1601,8 +1467,7 @@
     "founder_score": 7,
     "product_score": 7,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 6.1000000000000005,
-    "total_visits": null
+    "overall_weighted_score": 6.1000000000000005
   },
   {
     "first_name": "Panagiotis",
@@ -1616,8 +1481,7 @@
     "founder_score": 8,
     "product_score": 7,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 6.1000000000000005,
-    "total_visits": null
+    "overall_weighted_score": 6.1000000000000005
   },
   {
     "first_name": "Konstantinos",
@@ -1631,8 +1495,7 @@
     "founder_score": 7,
     "product_score": 7,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 6.1000000000000005,
-    "total_visits": null
+    "overall_weighted_score": 6.1000000000000005
   },
   {
     "first_name": null,
@@ -1646,38 +1509,7 @@
     "founder_score": 8,
     "product_score": 7,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 6.1000000000000005,
-    "total_visits": null
-  },
-  {
-    "first_name": "Spyridon",
-    "last_name": "Tzanetos",
-    "founder_name": "Spyridon Tzanetos",
-    "company_linkedin_url": "https://www.linkedin.com/company/designinspirationgroup/",
-    "company_name": "Design Inspiration Group",
-    "company_website": "https://designinspirationgroup.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/spiros-tzanetos",
-    "company_type": "product_company",
-    "founder_score": 9,
-    "product_score": null,
-    "market_opportunity_score": 8,
-    "overall_weighted_score": 6,
-    "total_visits": null
-  },
-  {
-    "first_name": "Tasos",
-    "last_name": "Ntampoudis",
-    "founder_name": "Tasos Ntampoudis",
-    "company_linkedin_url": "https://www.linkedin.com/company/hotemedia/",
-    "company_name": "HOTEMEDIA",
-    "company_website": "https://hotemedia.gr",
-    "person_linkedin_url": "https://www.linkedin.com/in/tasos-ntampoudis-708a48105",
-    "company_type": "product_company",
-    "founder_score": 8,
-    "product_score": 4,
-    "market_opportunity_score": null,
-    "overall_weighted_score": 6,
-    "total_visits": null
+    "overall_weighted_score": 6.1000000000000005
   },
   {
     "first_name": "George",
@@ -1691,8 +1523,7 @@
     "founder_score": 8,
     "product_score": 6,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 6,
-    "total_visits": null
+    "overall_weighted_score": 6
   },
   {
     "first_name": "Romero",
@@ -1706,8 +1537,7 @@
     "founder_score": 7,
     "product_score": 6,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 6,
-    "total_visits": null
+    "overall_weighted_score": 6
   },
   {
     "first_name": "Sofia",
@@ -1721,8 +1551,7 @@
     "founder_score": 9,
     "product_score": 6,
     "market_opportunity_score": 3,
-    "overall_weighted_score": 6,
-    "total_visits": null
+    "overall_weighted_score": 6
   },
   {
     "first_name": "Haig",
@@ -1736,8 +1565,7 @@
     "founder_score": 6,
     "product_score": 6,
     "market_opportunity_score": 6,
-    "overall_weighted_score": 6,
-    "total_visits": null
+    "overall_weighted_score": 6
   },
   {
     "first_name": "George",
@@ -1751,8 +1579,7 @@
     "founder_score": 8,
     "product_score": 6,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 6,
-    "total_visits": null
+    "overall_weighted_score": 6
   },
   {
     "first_name": "Emmanouil",
@@ -1766,8 +1593,7 @@
     "founder_score": 9,
     "product_score": 6,
     "market_opportunity_score": 3,
-    "overall_weighted_score": 6,
-    "total_visits": null
+    "overall_weighted_score": 6
   },
   {
     "first_name": "Andreas",
@@ -1781,8 +1607,7 @@
     "founder_score": 7,
     "product_score": 6,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 6,
-    "total_visits": null
+    "overall_weighted_score": 6
   },
   {
     "first_name": "Stelios",
@@ -1796,8 +1621,7 @@
     "founder_score": 7,
     "product_score": 6,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 6,
-    "total_visits": null
+    "overall_weighted_score": 6
   },
   {
     "first_name": "Vaggelis",
@@ -1811,8 +1635,7 @@
     "founder_score": 7,
     "product_score": 5,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 5.9,
-    "total_visits": null
+    "overall_weighted_score": 5.9
   },
   {
     "first_name": "Achilleas",
@@ -1826,8 +1649,7 @@
     "founder_score": 7,
     "product_score": 5,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 5.9,
-    "total_visits": null
+    "overall_weighted_score": 5.9
   },
   {
     "first_name": "George",
@@ -1841,8 +1663,7 @@
     "founder_score": 6,
     "product_score": 9,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 5.8500000000000005,
-    "total_visits": null
+    "overall_weighted_score": 5.8500000000000005
   },
   {
     "first_name": "Nefeli",
@@ -1856,8 +1677,7 @@
     "founder_score": 8,
     "product_score": 4,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 5.800000000000001,
-    "total_visits": null
+    "overall_weighted_score": 5.800000000000001
   },
   {
     "first_name": "Yannis",
@@ -1871,8 +1691,7 @@
     "founder_score": 8,
     "product_score": 4,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 5.800000000000001,
-    "total_visits": null
+    "overall_weighted_score": 5.800000000000001
   },
   {
     "first_name": "Spyros",
@@ -1886,8 +1705,7 @@
     "founder_score": 7,
     "product_score": 8,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 5.75,
-    "total_visits": null
+    "overall_weighted_score": 5.75
   },
   {
     "first_name": "John",
@@ -1901,8 +1719,7 @@
     "founder_score": 6,
     "product_score": 8,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 5.75,
-    "total_visits": null
+    "overall_weighted_score": 5.75
   },
   {
     "first_name": "Nikolaos",
@@ -1916,8 +1733,7 @@
     "founder_score": 3,
     "product_score": 8,
     "market_opportunity_score": 8,
-    "overall_weighted_score": 5.75,
-    "total_visits": null
+    "overall_weighted_score": 5.75
   },
   {
     "first_name": "Nikos",
@@ -1931,8 +1747,7 @@
     "founder_score": 7,
     "product_score": 8,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 5.75,
-    "total_visits": null
+    "overall_weighted_score": 5.75
   },
   {
     "first_name": "Giorgos",
@@ -1946,8 +1761,7 @@
     "founder_score": 6,
     "product_score": 8,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 5.75,
-    "total_visits": null
+    "overall_weighted_score": 5.75
   },
   {
     "first_name": "Xenofon",
@@ -1961,8 +1775,7 @@
     "founder_score": 6,
     "product_score": 8,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 5.75,
-    "total_visits": null
+    "overall_weighted_score": 5.75
   },
   {
     "first_name": "George",
@@ -1976,8 +1789,7 @@
     "founder_score": 5,
     "product_score": 8,
     "market_opportunity_score": 6,
-    "overall_weighted_score": 5.75,
-    "total_visits": null
+    "overall_weighted_score": 5.75
   },
   {
     "first_name": "Michalis",
@@ -1991,8 +1803,7 @@
     "founder_score": 5,
     "product_score": 8,
     "market_opportunity_score": 6,
-    "overall_weighted_score": 5.75,
-    "total_visits": null
+    "overall_weighted_score": 5.75
   },
   {
     "first_name": "Reut",
@@ -2006,8 +1817,7 @@
     "founder_score": 8,
     "product_score": 3,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 5.7,
-    "total_visits": null
+    "overall_weighted_score": 5.7
   },
   {
     "first_name": "Alexis",
@@ -2021,8 +1831,7 @@
     "founder_score": 7,
     "product_score": 7,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 5.65,
-    "total_visits": null
+    "overall_weighted_score": 5.65
   },
   {
     "first_name": "Tolis",
@@ -2036,8 +1845,7 @@
     "founder_score": 6,
     "product_score": 7,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 5.65,
-    "total_visits": null
+    "overall_weighted_score": 5.65
   },
   {
     "first_name": "Christos",
@@ -2051,8 +1859,7 @@
     "founder_score": 6,
     "product_score": 7,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 5.65,
-    "total_visits": null
+    "overall_weighted_score": 5.65
   },
   {
     "first_name": "Dimitris",
@@ -2066,8 +1873,7 @@
     "founder_score": 6,
     "product_score": 7,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 5.65,
-    "total_visits": null
+    "overall_weighted_score": 5.65
   },
   {
     "first_name": "Konstantinos",
@@ -2081,8 +1887,7 @@
     "founder_score": 6,
     "product_score": 7,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 5.65,
-    "total_visits": null
+    "overall_weighted_score": 5.65
   },
   {
     "first_name": "Byron",
@@ -2096,8 +1901,7 @@
     "founder_score": 6,
     "product_score": 7,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 5.65,
-    "total_visits": null
+    "overall_weighted_score": 5.65
   },
   {
     "first_name": "Panagiotis",
@@ -2111,8 +1915,7 @@
     "founder_score": 7,
     "product_score": 7,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 5.65,
-    "total_visits": null
+    "overall_weighted_score": 5.65
   },
   {
     "first_name": "Anastasios",
@@ -2126,8 +1929,7 @@
     "founder_score": 6,
     "product_score": 7,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 5.65,
-    "total_visits": null
+    "overall_weighted_score": 5.65
   },
   {
     "first_name": "Alexandros",
@@ -2141,8 +1943,7 @@
     "founder_score": 7,
     "product_score": 7,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 5.65,
-    "total_visits": null
+    "overall_weighted_score": 5.65
   },
   {
     "first_name": "Apostolos",
@@ -2156,8 +1957,7 @@
     "founder_score": 6,
     "product_score": 7,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 5.65,
-    "total_visits": null
+    "overall_weighted_score": 5.65
   },
   {
     "first_name": "Fatima",
@@ -2171,8 +1971,7 @@
     "founder_score": 8,
     "product_score": 7,
     "market_opportunity_score": 3,
-    "overall_weighted_score": 5.65,
-    "total_visits": null
+    "overall_weighted_score": 5.65
   },
   {
     "first_name": "Nikolaos",
@@ -2186,8 +1985,7 @@
     "founder_score": 6,
     "product_score": 7,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 5.65,
-    "total_visits": null
+    "overall_weighted_score": 5.65
   },
   {
     "first_name": null,
@@ -2201,8 +1999,7 @@
     "founder_score": 6,
     "product_score": 7,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 5.65,
-    "total_visits": null
+    "overall_weighted_score": 5.65
   },
   {
     "first_name": "DIMITRIS",
@@ -2216,8 +2013,7 @@
     "founder_score": 7,
     "product_score": 7,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 5.65,
-    "total_visits": null
+    "overall_weighted_score": 5.65
   },
   {
     "first_name": "Leandros",
@@ -2231,8 +2027,7 @@
     "founder_score": 5,
     "product_score": 7,
     "market_opportunity_score": 6,
-    "overall_weighted_score": 5.65,
-    "total_visits": null
+    "overall_weighted_score": 5.65
   },
   {
     "first_name": "Artemis",
@@ -2246,8 +2041,7 @@
     "founder_score": 7,
     "product_score": 6,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 5.550000000000001,
-    "total_visits": null
+    "overall_weighted_score": 5.550000000000001
   },
   {
     "first_name": "Joanna",
@@ -2261,8 +2055,7 @@
     "founder_score": 8,
     "product_score": 6,
     "market_opportunity_score": 3,
-    "overall_weighted_score": 5.550000000000001,
-    "total_visits": null
+    "overall_weighted_score": 5.550000000000001
   },
   {
     "first_name": "George",
@@ -2276,8 +2069,7 @@
     "founder_score": 7,
     "product_score": 6,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 5.550000000000001,
-    "total_visits": null
+    "overall_weighted_score": 5.550000000000001
   },
   {
     "first_name": "Pantelis",
@@ -2291,8 +2083,7 @@
     "founder_score": 7,
     "product_score": 6,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 5.550000000000001,
-    "total_visits": null
+    "overall_weighted_score": 5.550000000000001
   },
   {
     "first_name": "Andreas",
@@ -2306,8 +2097,7 @@
     "founder_score": 7,
     "product_score": 6,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 5.550000000000001,
-    "total_visits": null
+    "overall_weighted_score": 5.550000000000001
   },
   {
     "first_name": "Yiannis",
@@ -2321,8 +2111,7 @@
     "founder_score": 6,
     "product_score": 6,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 5.550000000000001,
-    "total_visits": null
+    "overall_weighted_score": 5.550000000000001
   },
   {
     "first_name": "Ivan",
@@ -2336,8 +2125,7 @@
     "founder_score": 6,
     "product_score": 6,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 5.550000000000001,
-    "total_visits": null
+    "overall_weighted_score": 5.550000000000001
   },
   {
     "first_name": "Manthos",
@@ -2351,8 +2139,7 @@
     "founder_score": 7,
     "product_score": 6,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 5.550000000000001,
-    "total_visits": null
+    "overall_weighted_score": 5.550000000000001
   },
   {
     "first_name": "Chrysanthi",
@@ -2366,8 +2153,7 @@
     "founder_score": 8,
     "product_score": 6,
     "market_opportunity_score": 3,
-    "overall_weighted_score": 5.550000000000001,
-    "total_visits": null
+    "overall_weighted_score": 5.550000000000001
   },
   {
     "first_name": "Nikitas",
@@ -2381,8 +2167,7 @@
     "founder_score": 6,
     "product_score": 6,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 5.550000000000001,
-    "total_visits": null
+    "overall_weighted_score": 5.550000000000001
   },
   {
     "first_name": "Konstantinos",
@@ -2396,8 +2181,7 @@
     "founder_score": 8,
     "product_score": 5,
     "market_opportunity_score": 3,
-    "overall_weighted_score": 5.45,
-    "total_visits": null
+    "overall_weighted_score": 5.45
   },
   {
     "first_name": "Panos",
@@ -2411,8 +2195,7 @@
     "founder_score": 8,
     "product_score": 5,
     "market_opportunity_score": 3,
-    "overall_weighted_score": 5.45,
-    "total_visits": null
+    "overall_weighted_score": 5.45
   },
   {
     "first_name": "Chrysanthi",
@@ -2426,8 +2209,7 @@
     "founder_score": 3,
     "product_score": 9,
     "market_opportunity_score": 7,
-    "overall_weighted_score": 5.4,
-    "total_visits": null
+    "overall_weighted_score": 5.4
   },
   {
     "first_name": "Sara",
@@ -2441,8 +2223,7 @@
     "founder_score": 8,
     "product_score": 4,
     "market_opportunity_score": 3,
-    "overall_weighted_score": 5.3500000000000005,
-    "total_visits": null
+    "overall_weighted_score": 5.3500000000000005
   },
   {
     "first_name": "Michael",
@@ -2456,8 +2237,7 @@
     "founder_score": 5,
     "product_score": 8,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 5.3,
-    "total_visits": null
+    "overall_weighted_score": 5.3
   },
   {
     "first_name": "Georgios",
@@ -2471,8 +2251,7 @@
     "founder_score": 5,
     "product_score": 8,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 5.3,
-    "total_visits": null
+    "overall_weighted_score": 5.3
   },
   {
     "first_name": "Christos",
@@ -2486,8 +2265,7 @@
     "founder_score": 3,
     "product_score": 8,
     "market_opportunity_score": 7,
-    "overall_weighted_score": 5.3,
-    "total_visits": null
+    "overall_weighted_score": 5.3
   },
   {
     "first_name": "Filippos",
@@ -2501,8 +2279,7 @@
     "founder_score": 4,
     "product_score": 8,
     "market_opportunity_score": 6,
-    "overall_weighted_score": 5.3,
-    "total_visits": null
+    "overall_weighted_score": 5.3
   },
   {
     "first_name": "Giannis",
@@ -2516,8 +2293,7 @@
     "founder_score": 3,
     "product_score": 8,
     "market_opportunity_score": 7,
-    "overall_weighted_score": 5.3,
-    "total_visits": null
+    "overall_weighted_score": 5.3
   },
   {
     "first_name": "Asterios",
@@ -2531,8 +2307,7 @@
     "founder_score": 5,
     "product_score": 8,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 5.3,
-    "total_visits": null
+    "overall_weighted_score": 5.3
   },
   {
     "first_name": "Papatheodorou",
@@ -2546,8 +2321,7 @@
     "founder_score": 4,
     "product_score": 8,
     "market_opportunity_score": 6,
-    "overall_weighted_score": 5.3,
-    "total_visits": null
+    "overall_weighted_score": 5.3
   },
   {
     "first_name": "Avgoustos",
@@ -2561,8 +2335,7 @@
     "founder_score": 4,
     "product_score": 7,
     "market_opportunity_score": 6,
-    "overall_weighted_score": 5.2,
-    "total_visits": null
+    "overall_weighted_score": 5.2
   },
   {
     "first_name": "Konstantinos",
@@ -2576,8 +2349,7 @@
     "founder_score": 6,
     "product_score": 7,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 5.2,
-    "total_visits": null
+    "overall_weighted_score": 5.2
   },
   {
     "first_name": "Kostas",
@@ -2591,8 +2363,7 @@
     "founder_score": 4,
     "product_score": 7,
     "market_opportunity_score": 6,
-    "overall_weighted_score": 5.2,
-    "total_visits": null
+    "overall_weighted_score": 5.2
   },
   {
     "first_name": "Evelina",
@@ -2606,8 +2377,7 @@
     "founder_score": 6,
     "product_score": 7,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 5.2,
-    "total_visits": null
+    "overall_weighted_score": 5.2
   },
   {
     "first_name": "Ignatios",
@@ -2621,8 +2391,7 @@
     "founder_score": 5,
     "product_score": 7,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 5.2,
-    "total_visits": null
+    "overall_weighted_score": 5.2
   },
   {
     "first_name": "Dimitris",
@@ -2636,8 +2405,7 @@
     "founder_score": 5,
     "product_score": 7,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 5.2,
-    "total_visits": null
+    "overall_weighted_score": 5.2
   },
   {
     "first_name": "Ioannis",
@@ -2651,8 +2419,7 @@
     "founder_score": 6,
     "product_score": 7,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 5.2,
-    "total_visits": null
+    "overall_weighted_score": 5.2
   },
   {
     "first_name": "Konstantinos",
@@ -2666,8 +2433,7 @@
     "founder_score": 5,
     "product_score": 7,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 5.2,
-    "total_visits": null
+    "overall_weighted_score": 5.2
   },
   {
     "first_name": "Antonio",
@@ -2681,8 +2447,7 @@
     "founder_score": 4,
     "product_score": 7,
     "market_opportunity_score": 6,
-    "overall_weighted_score": 5.2,
-    "total_visits": null
+    "overall_weighted_score": 5.2
   },
   {
     "first_name": "Stavros",
@@ -2696,8 +2461,7 @@
     "founder_score": 5,
     "product_score": 7,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 5.2,
-    "total_visits": null
+    "overall_weighted_score": 5.2
   },
   {
     "first_name": "Ioannis",
@@ -2711,8 +2475,7 @@
     "founder_score": 5,
     "product_score": 7,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 5.2,
-    "total_visits": null
+    "overall_weighted_score": 5.2
   },
   {
     "first_name": "Dominikos",
@@ -2726,8 +2489,7 @@
     "founder_score": 5,
     "product_score": 7,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 5.2,
-    "total_visits": null
+    "overall_weighted_score": 5.2
   },
   {
     "first_name": "Georgios",
@@ -2741,8 +2503,7 @@
     "founder_score": 5,
     "product_score": 7,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 5.2,
-    "total_visits": null
+    "overall_weighted_score": 5.2
   },
   {
     "first_name": "Myron",
@@ -2756,8 +2517,7 @@
     "founder_score": 5,
     "product_score": 7,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 5.2,
-    "total_visits": null
+    "overall_weighted_score": 5.2
   },
   {
     "first_name": "Elizabeth",
@@ -2771,8 +2531,7 @@
     "founder_score": 7,
     "product_score": 6,
     "market_opportunity_score": 3,
-    "overall_weighted_score": 5.1,
-    "total_visits": null
+    "overall_weighted_score": 5.1
   },
   {
     "first_name": "Katerina",
@@ -2786,8 +2545,7 @@
     "founder_score": 7,
     "product_score": 6,
     "market_opportunity_score": 3,
-    "overall_weighted_score": 5.1,
-    "total_visits": null
+    "overall_weighted_score": 5.1
   },
   {
     "first_name": "Periklis",
@@ -2801,8 +2559,7 @@
     "founder_score": 6,
     "product_score": 6,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 5.1,
-    "total_visits": null
+    "overall_weighted_score": 5.1
   },
   {
     "first_name": "Spyros",
@@ -2816,8 +2573,7 @@
     "founder_score": 7,
     "product_score": 6,
     "market_opportunity_score": 3,
-    "overall_weighted_score": 5.1,
-    "total_visits": null
+    "overall_weighted_score": 5.1
   },
   {
     "first_name": "Miranda",
@@ -2831,8 +2587,7 @@
     "founder_score": 6,
     "product_score": 6,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 5.1,
-    "total_visits": null
+    "overall_weighted_score": 5.1
   },
   {
     "first_name": "Kiriakos",
@@ -2846,53 +2601,7 @@
     "founder_score": 6,
     "product_score": 6,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 5.1,
-    "total_visits": null
-  },
-  {
-    "first_name": "Marios",
-    "last_name": "Stavropoulos",
-    "founder_name": "Marios Stavropoulos",
-    "company_linkedin_url": "https://www.linkedin.com/company/ademu-ai/",
-    "company_name": "Ademú",
-    "company_website": "https://ademu.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/marios-stavropoulos",
-    "company_type": "product_company",
-    "founder_score": 9,
-    "product_score": null,
-    "market_opportunity_score": 5,
-    "overall_weighted_score": 5,
-    "total_visits": null
-  },
-  {
-    "first_name": "Karampoikis",
-    "last_name": "Manos",
-    "founder_name": "Karampoikis Manos",
-    "company_linkedin_url": "https://www.linkedin.com/company/es-systems-sa/",
-    "company_name": "ES Systems",
-    "company_website": "https://esenssys.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/karampoikis-manos-4700454",
-    "company_type": "product_company",
-    "founder_score": 7,
-    "product_score": null,
-    "market_opportunity_score": 7,
-    "overall_weighted_score": 5,
-    "total_visits": null
-  },
-  {
-    "first_name": "Bill",
-    "last_name": "Germanakis",
-    "founder_name": "Bill Germanakis",
-    "company_linkedin_url": "https://www.linkedin.com/company/aivrika/",
-    "company_name": "AIvrika",
-    "company_website": "https://aivrika.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/bill-germanakis-565706130",
-    "company_type": "product_company",
-    "founder_score": 7,
-    "product_score": null,
-    "market_opportunity_score": 6,
-    "overall_weighted_score": 5,
-    "total_visits": null
+    "overall_weighted_score": 5.1
   },
   {
     "first_name": "George",
@@ -2906,8 +2615,7 @@
     "founder_score": 7,
     "product_score": 5,
     "market_opportunity_score": 3,
-    "overall_weighted_score": 5,
-    "total_visits": null
+    "overall_weighted_score": 5
   },
   {
     "first_name": "Alexandros",
@@ -2921,8 +2629,7 @@
     "founder_score": 7,
     "product_score": 5,
     "market_opportunity_score": 3,
-    "overall_weighted_score": 5,
-    "total_visits": null
+    "overall_weighted_score": 5
   },
   {
     "first_name": "Dimitris",
@@ -2936,23 +2643,7 @@
     "founder_score": 7,
     "product_score": 5,
     "market_opportunity_score": 3,
-    "overall_weighted_score": 5,
-    "total_visits": null
-  },
-  {
-    "first_name": "Sofia",
-    "last_name": "Fasli",
-    "founder_name": "Sofia Fasli",
-    "company_linkedin_url": "https://www.linkedin.com/company/webmail.serramenti.gr/",
-    "company_name": "Serramenti",
-    "company_website": "https://serramenti.gr",
-    "person_linkedin_url": "https://www.linkedin.com/in/sofia-fasli-6a8126271",
-    "company_type": "product_company",
-    "founder_score": 4,
-    "product_score": 2,
-    "market_opportunity_score": null,
-    "overall_weighted_score": 5,
-    "total_visits": null
+    "overall_weighted_score": 5
   },
   {
     "first_name": "Dimitrios",
@@ -2966,8 +2657,7 @@
     "founder_score": 8,
     "product_score": 4,
     "market_opportunity_score": 2,
-    "overall_weighted_score": 4.9,
-    "total_visits": null
+    "overall_weighted_score": 4.9
   },
   {
     "first_name": "George",
@@ -2981,8 +2671,7 @@
     "founder_score": 3,
     "product_score": 8,
     "market_opportunity_score": 6,
-    "overall_weighted_score": 4.8500000000000005,
-    "total_visits": null
+    "overall_weighted_score": 4.8500000000000005
   },
   {
     "first_name": "Stefanos",
@@ -2996,8 +2685,7 @@
     "founder_score": 4,
     "product_score": 8,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 4.85,
-    "total_visits": null
+    "overall_weighted_score": 4.85
   },
   {
     "first_name": "Gina",
@@ -3011,8 +2699,7 @@
     "founder_score": 3,
     "product_score": 7,
     "market_opportunity_score": 6,
-    "overall_weighted_score": 4.750000000000001,
-    "total_visits": null
+    "overall_weighted_score": 4.750000000000001
   },
   {
     "first_name": "Aris",
@@ -3026,8 +2713,7 @@
     "founder_score": 4,
     "product_score": 7,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 4.75,
-    "total_visits": null
+    "overall_weighted_score": 4.75
   },
   {
     "first_name": "Alexandros",
@@ -3041,8 +2727,7 @@
     "founder_score": 4,
     "product_score": 7,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 4.75,
-    "total_visits": null
+    "overall_weighted_score": 4.75
   },
   {
     "first_name": "Anna",
@@ -3056,8 +2741,7 @@
     "founder_score": 4,
     "product_score": 6,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 4.65,
-    "total_visits": null
+    "overall_weighted_score": 4.65
   },
   {
     "first_name": "Nicholas",
@@ -3071,8 +2755,7 @@
     "founder_score": 6,
     "product_score": 6,
     "market_opportunity_score": 3,
-    "overall_weighted_score": 4.65,
-    "total_visits": null
+    "overall_weighted_score": 4.65
   },
   {
     "first_name": "George",
@@ -3086,8 +2769,7 @@
     "founder_score": 6,
     "product_score": 5,
     "market_opportunity_score": 3,
-    "overall_weighted_score": 4.550000000000001,
-    "total_visits": null
+    "overall_weighted_score": 4.550000000000001
   },
   {
     "first_name": "Giannis",
@@ -3101,8 +2783,7 @@
     "founder_score": 5,
     "product_score": 5,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 4.55,
-    "total_visits": null
+    "overall_weighted_score": 4.55
   },
   {
     "first_name": "Konstantinos",
@@ -3116,8 +2797,7 @@
     "founder_score": 7,
     "product_score": 5,
     "market_opportunity_score": 2,
-    "overall_weighted_score": 4.55,
-    "total_visits": null
+    "overall_weighted_score": 4.55
   },
   {
     "first_name": "lefteris",
@@ -3131,8 +2811,7 @@
     "founder_score": 5,
     "product_score": 5,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 4.55,
-    "total_visits": null
+    "overall_weighted_score": 4.55
   },
   {
     "first_name": "Anna",
@@ -3146,8 +2825,7 @@
     "founder_score": 5,
     "product_score": 5,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 4.55,
-    "total_visits": null
+    "overall_weighted_score": 4.55
   },
   {
     "first_name": "Despina",
@@ -3161,8 +2839,7 @@
     "founder_score": 6,
     "product_score": 4,
     "market_opportunity_score": 3,
-    "overall_weighted_score": 4.450000000000001,
-    "total_visits": null
+    "overall_weighted_score": 4.450000000000001
   },
   {
     "first_name": "Giannis",
@@ -3176,8 +2853,7 @@
     "founder_score": 2,
     "product_score": 8,
     "market_opportunity_score": 6,
-    "overall_weighted_score": 4.4,
-    "total_visits": null
+    "overall_weighted_score": 4.4
   },
   {
     "first_name": "Iliana",
@@ -3191,8 +2867,7 @@
     "founder_score": 2,
     "product_score": 8,
     "market_opportunity_score": 6,
-    "overall_weighted_score": 4.4,
-    "total_visits": null
+    "overall_weighted_score": 4.4
   },
   {
     "first_name": "Ioanna",
@@ -3206,8 +2881,7 @@
     "founder_score": 4,
     "product_score": 8,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 4.4,
-    "total_visits": null
+    "overall_weighted_score": 4.4
   },
   {
     "first_name": "Georgios",
@@ -3221,8 +2895,7 @@
     "founder_score": 3,
     "product_score": 7,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 4.3,
-    "total_visits": null
+    "overall_weighted_score": 4.3
   },
   {
     "first_name": "Athanasios",
@@ -3236,8 +2909,7 @@
     "founder_score": 4,
     "product_score": 7,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 4.3,
-    "total_visits": null
+    "overall_weighted_score": 4.3
   },
   {
     "first_name": "Katia",
@@ -3251,8 +2923,7 @@
     "founder_score": 1,
     "product_score": 7,
     "market_opportunity_score": 7,
-    "overall_weighted_score": 4.3,
-    "total_visits": null
+    "overall_weighted_score": 4.3
   },
   {
     "first_name": "Charalampos",
@@ -3266,8 +2937,7 @@
     "founder_score": 4,
     "product_score": 7,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 4.3,
-    "total_visits": null
+    "overall_weighted_score": 4.3
   },
   {
     "first_name": "Christos",
@@ -3281,8 +2951,7 @@
     "founder_score": 4,
     "product_score": 6,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 4.2,
-    "total_visits": null
+    "overall_weighted_score": 4.2
   },
   {
     "first_name": "Yiannis",
@@ -3296,8 +2965,7 @@
     "founder_score": 4,
     "product_score": 6,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 4.2,
-    "total_visits": null
+    "overall_weighted_score": 4.2
   },
   {
     "first_name": "Angelos",
@@ -3311,8 +2979,7 @@
     "founder_score": 5,
     "product_score": 6,
     "market_opportunity_score": 3,
-    "overall_weighted_score": 4.2,
-    "total_visits": null
+    "overall_weighted_score": 4.2
   },
   {
     "first_name": "Riz",
@@ -3326,8 +2993,7 @@
     "founder_score": 5,
     "product_score": 6,
     "market_opportunity_score": 3,
-    "overall_weighted_score": 4.2,
-    "total_visits": null
+    "overall_weighted_score": 4.2
   },
   {
     "first_name": "Hercules",
@@ -3341,8 +3007,7 @@
     "founder_score": 5,
     "product_score": 6,
     "market_opportunity_score": 3,
-    "overall_weighted_score": 4.2,
-    "total_visits": null
+    "overall_weighted_score": 4.2
   },
   {
     "first_name": "Antonis",
@@ -3356,8 +3021,7 @@
     "founder_score": 4,
     "product_score": 6,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 4.2,
-    "total_visits": null
+    "overall_weighted_score": 4.2
   },
   {
     "first_name": "Christina",
@@ -3371,8 +3035,7 @@
     "founder_score": 5,
     "product_score": 1,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 4.1499999999999995,
-    "total_visits": null
+    "overall_weighted_score": 4.1499999999999995
   },
   {
     "first_name": "Nick",
@@ -3386,68 +3049,7 @@
     "founder_score": 5,
     "product_score": 5,
     "market_opportunity_score": 3,
-    "overall_weighted_score": 4.1,
-    "total_visits": null
-  },
-  {
-    "first_name": "Nikolaos",
-    "last_name": "Arkadopoulos",
-    "founder_name": "Nikolaos Arkadopoulos",
-    "company_linkedin_url": "https://www.linkedin.com/company/actionnpa/",
-    "company_name": "ActionNPA",
-    "company_website": "https://actionnpa.eu",
-    "person_linkedin_url": "https://www.linkedin.com/in/nikolaosarkadopoulos",
-    "company_type": "product_company",
-    "founder_score": 7,
-    "product_score": null,
-    "market_opportunity_score": 6,
-    "overall_weighted_score": 4,
-    "total_visits": null
-  },
-  {
-    "first_name": "Ourania",
-    "last_name": "Mavriki",
-    "founder_name": "Ourania Mavriki",
-    "company_linkedin_url": "https://www.linkedin.com/company/110029516/",
-    "company_name": "Lumipeaks",
-    "company_website": "https://lumieworld.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/ouraniamavriki",
-    "company_type": "product_company",
-    "founder_score": 4,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": 4,
-    "total_visits": null
-  },
-  {
-    "first_name": "Elias",
-    "last_name": "Malandris",
-    "founder_name": "Elias Malandris",
-    "company_linkedin_url": "https://www.linkedin.com/company/37787234/",
-    "company_name": "SMERemediumCap",
-    "company_website": "https://pitchbook.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/elias-malandris-6493281",
-    "company_type": "product_company",
-    "founder_score": 2,
-    "product_score": null,
-    "market_opportunity_score": 8,
-    "overall_weighted_score": 4,
-    "total_visits": null
-  },
-  {
-    "first_name": "Demi",
-    "last_name": "Stamatelia",
-    "founder_name": "Demi Stamatelia",
-    "company_linkedin_url": "https://www.linkedin.com/company/foxtylgreece/",
-    "company_name": "FOXTYL",
-    "company_website": "https://foxtyl.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/demi-stamatelia-65b0463a0",
-    "company_type": "product_company",
-    "founder_score": 2,
-    "product_score": null,
-    "market_opportunity_score": 3,
-    "overall_weighted_score": 4,
-    "total_visits": null
+    "overall_weighted_score": 4.1
   },
   {
     "first_name": "John",
@@ -3461,8 +3063,7 @@
     "founder_score": 1,
     "product_score": 8,
     "market_opportunity_score": 6,
-    "overall_weighted_score": 3.95,
-    "total_visits": null
+    "overall_weighted_score": 3.95
   },
   {
     "first_name": "Michalis",
@@ -3476,8 +3077,7 @@
     "founder_score": 1,
     "product_score": 7,
     "market_opportunity_score": 6,
-    "overall_weighted_score": 3.8500000000000005,
-    "total_visits": null
+    "overall_weighted_score": 3.8500000000000005
   },
   {
     "first_name": "Serge",
@@ -3491,8 +3091,7 @@
     "founder_score": 2,
     "product_score": 7,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 3.85,
-    "total_visits": null
+    "overall_weighted_score": 3.85
   },
   {
     "first_name": "Iasonas",
@@ -3506,8 +3105,7 @@
     "founder_score": 2,
     "product_score": 7,
     "market_opportunity_score": 5,
-    "overall_weighted_score": 3.85,
-    "total_visits": null
+    "overall_weighted_score": 3.85
   },
   {
     "first_name": "Ahmed",
@@ -3521,8 +3119,7 @@
     "founder_score": 4,
     "product_score": 2,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 3.8000000000000003,
-    "total_visits": null
+    "overall_weighted_score": 3.8000000000000003
   },
   {
     "first_name": "Marina",
@@ -3536,8 +3133,7 @@
     "founder_score": 4,
     "product_score": 6,
     "market_opportunity_score": 3,
-    "overall_weighted_score": 3.7500000000000004,
-    "total_visits": null
+    "overall_weighted_score": 3.7500000000000004
   },
   {
     "first_name": "Milen",
@@ -3551,8 +3147,7 @@
     "founder_score": 3,
     "product_score": 6,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 3.7500000000000004,
-    "total_visits": null
+    "overall_weighted_score": 3.7500000000000004
   },
   {
     "first_name": "Konstantinos",
@@ -3566,8 +3161,7 @@
     "founder_score": 3,
     "product_score": 5,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 3.6500000000000004,
-    "total_visits": null
+    "overall_weighted_score": 3.6500000000000004
   },
   {
     "first_name": "Natasa",
@@ -3581,8 +3175,7 @@
     "founder_score": 4,
     "product_score": 5,
     "market_opportunity_score": 3,
-    "overall_weighted_score": 3.6500000000000004,
-    "total_visits": null
+    "overall_weighted_score": 3.6500000000000004
   },
   {
     "first_name": "Kosta",
@@ -3596,8 +3189,7 @@
     "founder_score": 3,
     "product_score": 5,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 3.6500000000000004,
-    "total_visits": null
+    "overall_weighted_score": 3.6500000000000004
   },
   {
     "first_name": "George",
@@ -3611,8 +3203,7 @@
     "founder_score": 3,
     "product_score": 4,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 3.5500000000000003,
-    "total_visits": null
+    "overall_weighted_score": 3.5500000000000003
   },
   {
     "first_name": "Ivo",
@@ -3626,8 +3217,7 @@
     "founder_score": 2,
     "product_score": 8,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 3.5,
-    "total_visits": null
+    "overall_weighted_score": 3.5
   },
   {
     "first_name": "Giannis",
@@ -3641,8 +3231,7 @@
     "founder_score": 4,
     "product_score": 8,
     "market_opportunity_score": 2,
-    "overall_weighted_score": 3.5,
-    "total_visits": null
+    "overall_weighted_score": 3.5
   },
   {
     "first_name": "Lalit",
@@ -3656,8 +3245,7 @@
     "founder_score": 2,
     "product_score": 7,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 3.4000000000000004,
-    "total_visits": null
+    "overall_weighted_score": 3.4000000000000004
   },
   {
     "first_name": "Dimitris",
@@ -3671,8 +3259,7 @@
     "founder_score": 2,
     "product_score": 6,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 3.3000000000000003,
-    "total_visits": null
+    "overall_weighted_score": 3.3000000000000003
   },
   {
     "first_name": "Gerry",
@@ -3686,8 +3273,7 @@
     "founder_score": 3,
     "product_score": 6,
     "market_opportunity_score": 3,
-    "overall_weighted_score": 3.3000000000000003,
-    "total_visits": null
+    "overall_weighted_score": 3.3000000000000003
   },
   {
     "first_name": "Yiannis",
@@ -3701,8 +3287,7 @@
     "founder_score": 2,
     "product_score": 6,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 3.3000000000000003,
-    "total_visits": null
+    "overall_weighted_score": 3.3000000000000003
   },
   {
     "first_name": "Evgenia",
@@ -3716,8 +3301,7 @@
     "founder_score": 2,
     "product_score": 6,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 3.3000000000000003,
-    "total_visits": null
+    "overall_weighted_score": 3.3000000000000003
   },
   {
     "first_name": "NIKOS",
@@ -3731,8 +3315,7 @@
     "founder_score": 4,
     "product_score": 5,
     "market_opportunity_score": 2,
-    "overall_weighted_score": 3.2,
-    "total_visits": null
+    "overall_weighted_score": 3.2
   },
   {
     "first_name": "Dimitrios",
@@ -3746,23 +3329,7 @@
     "founder_score": 3,
     "product_score": 4,
     "market_opportunity_score": 3,
-    "overall_weighted_score": 3.1,
-    "total_visits": null
-  },
-  {
-    "first_name": "Georgios",
-    "last_name": "Argyropoulos",
-    "founder_name": "Georgios Argyropoulos",
-    "company_linkedin_url": "https://www.linkedin.com/company/agrilakon-organic-products-g-p/",
-    "company_name": "Agrilakon Organic Products G.P.",
-    "company_website": "https://agrilakon.gr",
-    "person_linkedin_url": "https://www.linkedin.com/in/georgios-alexandros-argyropoulos-4b422719a",
-    "company_type": "product_company",
-    "founder_score": 7,
-    "product_score": null,
-    "market_opportunity_score": 5,
-    "overall_weighted_score": 3,
-    "total_visits": null
+    "overall_weighted_score": 3.1
   },
   {
     "first_name": "Christoforos",
@@ -3776,8 +3343,7 @@
     "founder_score": 1,
     "product_score": 7,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 2.95,
-    "total_visits": null
+    "overall_weighted_score": 2.95
   },
   {
     "first_name": "Mariana",
@@ -3791,8 +3357,7 @@
     "founder_score": 2,
     "product_score": 6,
     "market_opportunity_score": 3,
-    "overall_weighted_score": 2.85,
-    "total_visits": null
+    "overall_weighted_score": 2.85
   },
   {
     "first_name": "John",
@@ -3806,8 +3371,7 @@
     "founder_score": 1,
     "product_score": 5,
     "market_opportunity_score": 4,
-    "overall_weighted_score": 2.75,
-    "total_visits": null
+    "overall_weighted_score": 2.75
   },
   {
     "first_name": "Georgia",
@@ -3821,8 +3385,7 @@
     "founder_score": 2,
     "product_score": 5,
     "market_opportunity_score": 3,
-    "overall_weighted_score": 2.75,
-    "total_visits": null
+    "overall_weighted_score": 2.75
   },
   {
     "first_name": "Yuichiro",
@@ -3836,8 +3399,7 @@
     "founder_score": 2,
     "product_score": 5,
     "market_opportunity_score": 3,
-    "overall_weighted_score": 2.75,
-    "total_visits": null
+    "overall_weighted_score": 2.75
   },
   {
     "first_name": "Christos",
@@ -3851,8 +3413,7 @@
     "founder_score": 2,
     "product_score": 4,
     "market_opportunity_score": 3,
-    "overall_weighted_score": 2.65,
-    "total_visits": null
+    "overall_weighted_score": 2.65
   },
   {
     "first_name": "Hüdai",
@@ -3866,8 +3427,7 @@
     "founder_score": 2,
     "product_score": 7,
     "market_opportunity_score": 2,
-    "overall_weighted_score": 2.5,
-    "total_visits": null
+    "overall_weighted_score": 2.5
   },
   {
     "first_name": "Konstantinos",
@@ -3881,8 +3441,7 @@
     "founder_score": 1,
     "product_score": 6,
     "market_opportunity_score": 3,
-    "overall_weighted_score": 2.4000000000000004,
-    "total_visits": null
+    "overall_weighted_score": 2.4000000000000004
   },
   {
     "first_name": "Vaggelis",
@@ -3896,157 +3455,6 @@
     "founder_score": 1,
     "product_score": 5,
     "market_opportunity_score": 3,
-    "overall_weighted_score": 2.3,
-    "total_visits": null
-  },
-  {
-    "first_name": "Anastasia",
-    "last_name": "Faitatzoglou",
-    "founder_name": "Anastasia Faitatzoglou",
-    "company_linkedin_url": "https://www.linkedin.com/company/mediterranean-petroleum/",
-    "company_name": "Mediterranean Petroleum",
-    "company_website": "https://mediterraneanpetroleum.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/anastasia-faitatzoglou-63919a1a3",
-    "company_type": "product_company",
-    "founder_score": 8,
-    "product_score": null,
-    "market_opportunity_score": 7,
-    "overall_weighted_score": 2,
-    "total_visits": null
-  },
-  {
-    "first_name": "Hara",
-    "last_name": "Ledaki",
-    "founder_name": "Hara Ledaki",
-    "company_linkedin_url": "https://www.linkedin.com/company/persado/",
-    "company_name": "Persado",
-    "company_website": "https://persado.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/haraledaki",
-    "company_type": "product_company",
-    "founder_score": 8,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null,
-    "total_visits": null
-  },
-  {
-    "first_name": "Theodore",
-    "last_name": "Papamarkou",
-    "founder_name": "Theodore Papamarkou",
-    "company_linkedin_url": "https://www.linkedin.com/company/polyshape/",
-    "company_name": "PolyShape",
-    "company_website": "https://polyshape.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/papamarkou",
-    "company_type": "product_company",
-    "founder_score": 7,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null,
-    "total_visits": null
-  },
-  {
-    "first_name": "Yiannis",
-    "last_name": "Pavlakis",
-    "founder_name": "Yiannis Pavlakis",
-    "company_linkedin_url": "https://www.linkedin.com/company/admixer-advertising-greece/",
-    "company_name": "Admixer Advertising Greece",
-    "company_website": "https://admixeradvertising.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/yiannis-pavlakis-6b741460",
-    "company_type": "product_company",
-    "founder_score": 8,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null,
-    "total_visits": null
-  },
-  {
-    "first_name": "Filistor",
-    "last_name": "Destempasidis",
-    "founder_name": "Filistor Destempasidis",
-    "company_linkedin_url": "https://www.linkedin.com/company/re-business-single-member-p-c/",
-    "company_name": "RE:BUSINESS Single Member P.C.",
-    "company_website": "https://rebusiness.pro",
-    "person_linkedin_url": "https://www.linkedin.com/in/filistor-destempasidis-3965b720",
-    "company_type": "product_company",
-    "founder_score": 8,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null,
-    "total_visits": null
-  },
-  {
-    "first_name": "Eri",
-    "last_name": "Christogianni",
-    "founder_name": "Eri Christogianni",
-    "company_linkedin_url": "https://www.linkedin.com/company/sporosmeals/",
-    "company_name": "Sporos",
-    "company_website": "https://sporosmeals.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/erichristogianni",
-    "company_type": "product_company",
-    "founder_score": 7,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null,
-    "total_visits": null
-  },
-  {
-    "first_name": "George",
-    "last_name": "Ilias",
-    "founder_name": "George Ilias",
-    "company_linkedin_url": "https://www.linkedin.com/company/crates-app/",
-    "company_name": "Crates",
-    "company_website": "https://crates.app",
-    "person_linkedin_url": "https://www.linkedin.com/in/george-ilias-ath",
-    "company_type": "product_company",
-    "founder_score": 7,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null,
-    "total_visits": null
-  },
-  {
-    "first_name": "Maria",
-    "last_name": "Spourdalaki",
-    "founder_name": "Maria Spourdalaki",
-    "company_linkedin_url": "https://www.linkedin.com/company/step-into-youth/",
-    "company_name": "Step Into Youth",
-    "company_website": "https://zscaler.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/maria-spourdalaki",
-    "company_type": "product_company",
-    "founder_score": 2,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null,
-    "total_visits": null
-  },
-  {
-    "first_name": "Alexander",
-    "last_name": "Tsala",
-    "founder_name": "Alexander Tsala",
-    "company_linkedin_url": "https://www.linkedin.com/company/vermile/",
-    "company_name": "Vermile",
-    "company_website": "https://vermile.com",
-    "person_linkedin_url": "https://www.linkedin.com/in/alexander-tsala",
-    "company_type": "product_company",
-    "founder_score": 2,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null,
-    "total_visits": null
-  },
-  {
-    "first_name": "Nikos",
-    "last_name": "Anastasiou",
-    "founder_name": "Nikos Anastasiou",
-    "company_linkedin_url": "https://www.linkedin.com/company/iahc/",
-    "company_name": "Heraklion International Airport, Crete",
-    "company_website": "https://iahc.gr",
-    "person_linkedin_url": "https://www.linkedin.com/in/nikos-irakli-anastasiou",
-    "company_type": "product_company",
-    "founder_score": 1,
-    "product_score": null,
-    "market_opportunity_score": null,
-    "overall_weighted_score": null,
-    "total_visits": null
+    "overall_weighted_score": 2.3
   }
 ]

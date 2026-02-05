@@ -76,7 +76,7 @@ function parseNumber(val) {
 
 // Parse Greek Founders (LinkedIn scrape) - filter for product_company only
 function parseGreekFounders() {
-    const filePath = path.join(__dirname, '../Downloads/Greek-Founders-For-Real-Default-view-export-1770233524497.csv');
+    const filePath = path.join(__dirname, '../Downloads/Greek-Founders-For-Real-Default-view-export-1770300771199.csv');
     const content = fs.readFileSync(filePath, 'utf-8');
     const rows = parseCSV(content);
     const header = rows[0];
@@ -94,6 +94,14 @@ function parseGreekFounders() {
         // Only include product companies
         if (companyType !== 'product_company') continue;
 
+        const founderScore = parseNumber(row[12]);
+        const productScore = parseNumber(row[18]);
+        const marketScore = parseNumber(row[19]);
+        const overallScore = parseNumber(row[20]);
+
+        // Only include companies with complete ratings
+        if (founderScore === null || productScore === null || marketScore === null || overallScore === null) continue;
+
         const founder = {
             first_name: cleanValue(row[1]),
             last_name: cleanValue(row[2]),
@@ -103,11 +111,10 @@ function parseGreekFounders() {
             company_website: cleanValue(row[5]),
             person_linkedin_url: cleanValue(row[6]),
             company_type: companyType,
-            founder_score: parseNumber(row[12]),
-            product_score: parseNumber(row[18]),
-            market_opportunity_score: parseNumber(row[19]),
-            overall_weighted_score: parseNumber(row[20]),
-            total_visits: parseNumber(row[29])
+            founder_score: founderScore,
+            product_score: productScore,
+            market_opportunity_score: marketScore,
+            overall_weighted_score: overallScore
         };
 
         // Only add if has company name
