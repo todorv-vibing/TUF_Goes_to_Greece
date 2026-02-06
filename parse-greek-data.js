@@ -140,48 +140,53 @@ function parseGreekFounders() {
     return founders;
 }
 
-// Parse Harmonic Founders
+// Parse Harmonic Founders - uses regex-based extraction for complex CSV
 function parseHarmonicFounders() {
-    const filePath = path.join(__dirname, '../Downloads/Harmonic-Founders-for-Real-Default-view-export-1770233504484.csv');
+    const filePath = path.join(__dirname, '../Downloads/Harmonic-Greek-Founders-for-Real-Default-view-export-1770381254774.csv');
     const content = fs.readFileSync(filePath, 'utf-8');
-    const rows = parseCSV(content);
 
-    console.log('Harmonic CSV headers:', rows[0]);
+    // Split by lines that start with a quoted name and LinkedIn URL pattern
+    // Each valid data row starts with "Name","https://linkedin.com/in/...
+    const rowPattern = /^"([^"]+)","(https:\/\/linkedin\.com\/in\/[^"]+)".*?,(\d+)$/gm;
 
     const founders = [];
-    for (let i = 1; i < rows.length; i++) {
-        const row = rows[i];
-        if (row.length < 5) continue;
+    let match;
 
-        // Parse education JSON to extract readable text
+    while ((match = rowPattern.exec(content)) !== null) {
+        const fullName = match[1];
+        const linkedinUrl = match[2];
+        const founderScore = parseInt(match[3], 10);
+
+        // Skip header row if matched
+        if (fullName === 'Full Name') continue;
+
+        // Try to extract education from the row
         let education = '';
-        try {
-            const eduRaw = cleanValue(row[3]);
-            if (eduRaw && eduRaw.startsWith('[')) {
-                const eduArray = JSON.parse(eduRaw);
-                education = eduArray.map(e => {
-                    const parts = [];
-                    if (e.degreeType) parts.push(e.degreeType);
-                    if (e.fieldOfStudy) parts.push(e.fieldOfStudy);
-                    if (e.institutionName) parts.push(`at ${e.institutionName}`);
-                    return parts.join(' ');
-                }).filter(e => e).slice(0, 2).join('; ');
-            }
-        } catch (e) {
-            education = cleanValue(row[3])?.substring(0, 100) || '';
+        const rowStart = match.index;
+        const rowEnd = content.indexOf('\n', rowStart);
+        const rowContent = content.substring(rowStart, rowEnd > 0 ? rowEnd : undefined);
+
+        // Look for education JSON array
+        const eduMatch = rowContent.match(/"\[{""institutionName""[^"]*""([^"]+)""[^}]*""degreeType""[^"]*""([^"]+)""[^}]*""fieldOfStudy""[^"]*""([^"]*)""/);
+        if (eduMatch) {
+            const parts = [];
+            if (eduMatch[2]) parts.push(eduMatch[2]); // degreeType
+            if (eduMatch[3] && eduMatch[3] !== 'null') parts.push(eduMatch[3]); // fieldOfStudy
+            if (eduMatch[1]) parts.push(`at ${eduMatch[1]}`); // institutionName
+            education = parts.join(' ');
         }
 
-        const founder = {
-            full_name: cleanValue(row[0]),
-            linkedin_url: cleanValue(row[1]),
-            education: education,
-            founder_score: parseNumber(row[5])
-        };
-
-        if (founder.full_name) {
-            founders.push(founder);
+        if (fullName && !isNaN(founderScore)) {
+            founders.push({
+                full_name: fullName,
+                linkedin_url: linkedinUrl,
+                education: education,
+                founder_score: founderScore
+            });
         }
     }
+
+    console.log(`Parsed ${founders.length} Harmonic founders (regex method)`);
 
     // Sort by founder score descending
     founders.sort((a, b) => {
@@ -191,7 +196,6 @@ function parseHarmonicFounders() {
         return b.founder_score - a.founder_score;
     });
 
-    console.log(`Parsed ${founders.length} Harmonic founders`);
     fs.writeFileSync(
         path.join(__dirname, 'harmonic_founders.json'),
         JSON.stringify(founders, null, 2)

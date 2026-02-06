@@ -1,56 +1,224 @@
 [
   {
-    "full_name": "Jon-Pål Gagnum",
-    "linkedin_url": "https://linkedin.com/in/jonpalmg",
-    "education": "[{institutionName:Yale University,degreeType:Bachelor of Arts,fieldOfStudy:History,timeFrame:2000–20",
+    "full_name": "Valentina Antonia Trikounaki",
+    "linkedin_url": "https://linkedin.com/in/valentinatrikounaki",
+    "education": "",
+    "founder_score": 9
+  },
+  {
+    "full_name": "Peter Benos",
+    "linkedin_url": "https://linkedin.com/in/peterbenos",
+    "education": "Bachelor's degree Computer Science at University of Piraeus",
     "founder_score": 8
   },
   {
-    "full_name": "Πάνος Κονδύλης",
-    "linkedin_url": "https://linkedin.com/in/kondilis",
-    "education": "[{institutionName:Athens University of Economics and Business,degreeType:Bachelor's degree,fieldOfSt",
+    "full_name": "Chronis Iliakis",
+    "linkedin_url": "https://linkedin.com/in/polychronis-iliakis",
+    "education": "",
     "founder_score": 8
   },
   {
-    "full_name": "Bill Toulias",
-    "linkedin_url": "https://linkedin.com/in/toulias",
-    "education": "[{institutionName:National Technical University of Athens,degreeType:BSc & MSc,fieldOfStudy:Electric",
+    "full_name": "George Oikonomopoulos",
+    "linkedin_url": "https://linkedin.com/in/george-oikonomopoulos-2054ba54",
+    "education": "Master's degree Civil Engineering at Aristotle University of Thessaloniki (AUTH)",
+    "founder_score": 8
+  },
+  {
+    "full_name": "Manos Athanatos",
+    "linkedin_url": "https://linkedin.com/in/manosathanatos",
+    "education": "Master's Degree Parallel and Distributed Systems, Information Systems at University of Crete",
+    "founder_score": 8
+  },
+  {
+    "full_name": "Stathis Xenos",
+    "linkedin_url": "https://linkedin.com/in/exenos",
+    "education": "MBA Finance and Financial Management Services at Athens University of Economics and Business",
+    "founder_score": 8
+  },
+  {
+    "full_name": "Andreas Lemonis",
+    "linkedin_url": "https://linkedin.com/in/andreas-lemonis-62771169",
+    "education": "BEng (Hons) Electrical and Electronics Engineering at Sheffield Hallam University",
+    "founder_score": 8
+  },
+  {
+    "full_name": "Artemis Nikolaou",
+    "linkedin_url": "https://linkedin.com/in/artemis-nikolaou-2640049",
+    "education": "",
+    "founder_score": 8
+  },
+  {
+    "full_name": "Suzanna Toutziari",
+    "linkedin_url": "https://linkedin.com/in/suzanna-toutziari",
+    "education": "",
+    "founder_score": 8
+  },
+  {
+    "full_name": "Anna Mazarsky",
+    "linkedin_url": "https://linkedin.com/in/annamazarsky",
+    "education": "GMBA International Business at Reichman University",
+    "founder_score": 8
+  },
+  {
+    "full_name": "Dimitris Agiakatsikas",
+    "linkedin_url": "https://linkedin.com/in/dagiakat",
+    "education": "Doctor of Philosophy - PhD Computer Science and Engineering at UNSW",
+    "founder_score": 8
+  },
+  {
+    "full_name": "Elizabeth Paulina Farkas",
+    "linkedin_url": "https://linkedin.com/in/elizabeth-farkas-2019",
+    "education": "Master's degree Business Administration and Management, General at Imperial Business School",
+    "founder_score": 8
+  },
+  {
+    "full_name": "🎧Konstantinos Kasidiaris",
+    "linkedin_url": "https://linkedin.com/in/konstantinos-kasidiaris",
+    "education": "Bachelor & Master of Engineering Chemical Engineering at University of Patras",
+    "founder_score": 8
+  },
+  {
+    "full_name": "Marilena Apostolidou",
+    "linkedin_url": "https://linkedin.com/in/marilena-apostolidou-0439a51b2",
+    "education": "",
     "founder_score": 8
   },
   {
     "full_name": "Ronis Maximidis",
     "linkedin_url": "https://linkedin.com/in/ronismaximidis",
-    "education": "[{institutionName:Democritus University of Thrace (D.U.Th.),degreeType:Bachelor's Degree,fieldOfStud",
+    "education": "Doctor of Philosophy - PhD Electromahnetics - Antenna Design at Eindhoven University of Technology",
     "founder_score": 8
   },
   {
-    "full_name": "George Gakas",
-    "linkedin_url": "https://linkedin.com/in/george-gakas-23163987",
-    "education": "[{institutionName:Ethnikon kai Kapodistriakon Panepistimion Athinon,degreeType:Bachelor of Science,f",
+    "full_name": "Konstantinos Christopoulos",
+    "linkedin_url": "https://linkedin.com/in/konstantinos-christopoulos-04072513b",
+    "education": "Master of Science - MS Geo-Information Science at Wageningen University & Research",
+    "founder_score": 8
+  },
+  {
+    "full_name": "Vasilis Kaloudis",
+    "linkedin_url": "https://linkedin.com/in/vasiliskaloudis",
+    "education": "",
+    "founder_score": 8
+  },
+  {
+    "full_name": "Elsa Reißmann",
+    "linkedin_url": "https://linkedin.com/in/elsa-reissmann",
+    "education": "Bachelor of Science - BS Maritime Management at HSBA Hamburg School of Business Administration",
+    "founder_score": 8
+  },
+  {
+    "full_name": "Georgios Tsimiklis",
+    "linkedin_url": "https://linkedin.com/in/georgios-tsimiklis-59b43312",
+    "education": "Master of science Entrepreneurship and Innovation Management at KTH Royal Institute of Technology",
+    "founder_score": 8
+  },
+  {
+    "full_name": "Giorgos Vlachos",
+    "linkedin_url": "https://linkedin.com/in/giorgos-vlachos-a6568740",
+    "education": "",
+    "founder_score": 8
+  },
+  {
+    "full_name": "Spiros Barbas",
+    "linkedin_url": "https://linkedin.com/in/spiros-barbas",
+    "education": "",
+    "founder_score": 8
+  },
+  {
+    "full_name": "Vasileios Christou",
+    "linkedin_url": "https://linkedin.com/in/vasileios-t-christou",
+    "education": "",
+    "founder_score": 8
+  },
+  {
+    "full_name": "Panagiotis Efthymiou",
+    "linkedin_url": "https://linkedin.com/in/panagiotis-efthymiou-71227527",
+    "education": "",
+    "founder_score": 8
+  },
+  {
+    "full_name": "Christos Papandreou",
+    "linkedin_url": "https://linkedin.com/in/christos-papandreou-791627a2",
+    "education": "",
+    "founder_score": 8
+  },
+  {
+    "full_name": "Alexandros Voliotis",
+    "linkedin_url": "https://linkedin.com/in/alexandros-voliotis",
+    "education": "Integrated Master's degree Computer Science and Informatics at University of West Attica",
+    "founder_score": 8
+  },
+  {
+    "full_name": "Leonidas Papadopoulos",
+    "linkedin_url": "https://linkedin.com/in/leonidas-papadopoulos",
+    "education": "",
     "founder_score": 8
   },
   {
     "full_name": "Nik Antoniou",
     "linkedin_url": "https://linkedin.com/in/nik-antoniou-8615377",
-    "education": "[{institutionName:Oglethorpe University (USA),degreeType:BBA,fieldOfStudy:Business Administration,ti",
+    "education": "MBA Finance at Auburn University, College of Business (USA)",
     "founder_score": 8
   },
   {
-    "full_name": "Lee Bloor",
-    "linkedin_url": "https://linkedin.com/in/leebloor",
-    "education": "[{institutionName:Leeds Beckett University}]",
+    "full_name": "Dominikos Pritis",
+    "linkedin_url": "https://linkedin.com/in/dominikospritis",
+    "education": "",
+    "founder_score": 8
+  },
+  {
+    "full_name": "Thomas Kosmas",
+    "linkedin_url": "https://linkedin.com/in/thomas-kosmas-966a10118",
+    "education": "Electrical and Computer Engineering timeFrame at National Technical University of Athens",
+    "founder_score": 8
+  },
+  {
+    "full_name": "Ekin Burak O.",
+    "linkedin_url": "https://linkedin.com/in/ekinb",
+    "education": "Master of Science (MS) Management Information Systems at NYU Stern School of Business",
+    "founder_score": 8
+  },
+  {
+    "full_name": "Danish Iftikhar",
+    "linkedin_url": "https://linkedin.com/in/danish-iftikhar-dev",
+    "education": "Bachelor of Science Computer Science at Webster University",
+    "founder_score": 8
+  },
+  {
+    "full_name": "Spiros Antonatos",
+    "linkedin_url": "https://linkedin.com/in/antonatos",
+    "education": "",
+    "founder_score": 8
+  },
+  {
+    "full_name": "Aggelos Kottas",
+    "linkedin_url": "https://linkedin.com/in/aggelos-kottas",
+    "education": "",
+    "founder_score": 8
+  },
+  {
+    "full_name": "Evangelos Meklis",
+    "linkedin_url": "https://linkedin.com/in/evangelos-meklis",
+    "education": "",
     "founder_score": 8
   },
   {
     "full_name": "Ibrahim E.",
     "linkedin_url": "https://linkedin.com/in/ibrahimelbitar",
-    "education": "[{institutionName:American University of Beirut,degreeType:Bachelor of Engineering,fieldOfStudy:Elec",
+    "education": "Certificate Organizational Leadership at The University of Chicago Booth School of Business",
+    "founder_score": 8
+  },
+  {
+    "full_name": "Christiana Polyzou",
+    "linkedin_url": "https://linkedin.com/in/christiana-polyzou",
+    "education": "",
     "founder_score": 8
   },
   {
     "full_name": "Eytan Cohen",
     "linkedin_url": "https://linkedin.com/in/eytancohen",
-    "education": "",
+    "education": "Bachelor's degree English Language and Literature, General at Kenyon College",
     "founder_score": 8
   },
   {
@@ -60,640 +228,334 @@
     "founder_score": 8
   },
   {
-    "full_name": "Anthony Dimitrokalis",
-    "linkedin_url": "https://linkedin.com/in/anthony-dimitrokalis-19977321",
-    "education": "[{institutionName:Concordia University,degreeType:Bachelor,fieldOfStudy:Engineering,timeFrame:1990–1",
-    "founder_score": 7
+    "full_name": "Alexandra Politaki",
+    "linkedin_url": "https://linkedin.com/in/alexandra-politaki-b337b0181",
+    "education": "Doctor of Philosophy - PhD Political Sciences at Aristotle University of Thessaloniki (AUTH)",
+    "founder_score": 8
   },
   {
-    "full_name": "Leonidas V. Athanasopoulos",
-    "linkedin_url": "https://linkedin.com/in/lathanasopoulos",
-    "education": "[{institutionName:National & Kapodistrian University of Athens,degreeType:Doctor of Medicine,fieldOf",
-    "founder_score": 7
-  },
-  {
-    "full_name": "Pepy Siouti",
-    "linkedin_url": "https://linkedin.com/in/pepy-siouti-2212068",
-    "education": "[{institutionName:Athens University of Economics and Business,degreeType:Bachelor's degree,fieldOfSt",
-    "founder_score": 7
-  },
-  {
-    "full_name": "Manos Athanatos",
-    "linkedin_url": "https://linkedin.com/in/manosathanatos",
-    "education": "[{institutionName:University of Crete,degreeType:Bachelor in Science,fieldOfStudy:Computer Science,t",
-    "founder_score": 7
-  },
-  {
-    "full_name": "Neoklis Athanasiou",
-    "linkedin_url": "https://linkedin.com/in/neoklis-athanasiou-3a005716a",
-    "education": "[{institutionName:Panteion University of Social and Political Sciences,degreeType:Social Sciences & ",
-    "founder_score": 7
-  },
-  {
-    "full_name": "Nikolaos Nikou",
-    "linkedin_url": "https://linkedin.com/in/nikolaos-nikou",
-    "education": "[{institutionName:1st Highschool - Galatsi,degreeType:High School,timeFrame:1999–2002,startYear:1999",
-    "founder_score": 7
-  },
-  {
-    "full_name": "Stathis Xenos",
-    "linkedin_url": "https://linkedin.com/in/exenos",
-    "education": "[{institutionName:Democritus University of Thrace - (D.U.Th.),degreeType:MEng Civil Engineering,fiel",
-    "founder_score": 7
-  },
-  {
-    "full_name": "Artemis Nikolaou",
-    "linkedin_url": "https://linkedin.com/in/artemis-nikolaou-2640049",
+    "full_name": "Athanasios Mouzas",
+    "linkedin_url": "https://linkedin.com/in/athanasios-mouzas-4b183690",
     "education": "",
-    "founder_score": 7
+    "founder_score": 8
   },
   {
-    "full_name": "Sofia Aliferi",
-    "linkedin_url": "https://linkedin.com/in/sofiaaliferi",
-    "education": "[{institutionName:Ethnikon kai Kapodistriakon Panepistimion Athinon,degreeType:BA,fieldOfStudy:Engli",
-    "founder_score": 7
-  },
-  {
-    "full_name": "Katerina Agoropoulou",
-    "linkedin_url": "https://linkedin.com/in/katerina-agoropoulou-91802b17",
-    "education": "[{institutionName:The American College of Greece,degreeType:Bachelor of Science,fieldOfStudy:Marketi",
-    "founder_score": 7
-  },
-  {
-    "full_name": "🎧Konstantinos Kasidiaris",
-    "linkedin_url": "https://linkedin.com/in/konstantinos-kasidiaris",
-    "education": "[{institutionName:University of Patras,degreeType:Bachelor & Master of Engineering,fieldOfStudy:Chem",
-    "founder_score": 7
-  },
-  {
-    "full_name": "Mansimran Singh",
-    "linkedin_url": "https://linkedin.com/in/mansimransingh",
-    "education": "[{institutionName:The University of Sheffield,degreeType:Bachelor of Science,fieldOfStudy:Computer S",
-    "founder_score": 7
-  },
-  {
-    "full_name": "Stefanos Sampaziotis",
-    "linkedin_url": "https://linkedin.com/in/stefsampaziotis",
-    "education": "[{institutionName:University of Patras,degreeType:Diploma in Architecture,fieldOfStudy:Architecture,",
-    "founder_score": 7
-  },
-  {
-    "full_name": "Δημήτρης Μήτσιος",
-    "linkedin_url": "https://linkedin.com/in/dimitris-mitsios-original",
+    "full_name": "Chris Papatheodorou",
+    "linkedin_url": "https://linkedin.com/in/chris-papatheodorou-83b8132b3",
     "education": "",
-    "founder_score": 7
-  },
-  {
-    "full_name": "Σωτήρης Κανηράς",
-    "linkedin_url": "https://linkedin.com/in/castashuman",
-    "education": "[{institutionName:Department of Informatics & Telecommunications,startYear:2012}]",
-    "founder_score": 7
-  },
-  {
-    "full_name": "Giorgos Vlachos",
-    "linkedin_url": "https://linkedin.com/in/giorgos-vlachos-a6568740",
-    "education": "[{institutionName:Hellenic American Educational Foundation Athens College - Psychico College,timeFra",
-    "founder_score": 7
-  },
-  {
-    "full_name": "Vasilis Christopoulos",
-    "linkedin_url": "https://linkedin.com/in/vasileioschristopoulos",
-    "education": "[{institutionName:Athens University of Economics and Business,degreeType:Computer Science,timeFrame:",
-    "founder_score": 7
-  },
-  {
-    "full_name": "Spyros Samartzis",
-    "linkedin_url": "https://linkedin.com/in/ssamartzis",
-    "education": "[{institutionName:National Technical University of Athens,degreeType:Mechanical Engineering,timeFram",
-    "founder_score": 7
-  },
-  {
-    "full_name": "Alexandros Theodoridis Phd (He, Him)",
-    "linkedin_url": "https://linkedin.com/in/alexandros-theodoridis-phd",
-    "education": "[{institutionName:FAU Erlangen-Nürnberg,degreeType:Diploma (Master Equivalent),fieldOfStudy:Chemistr",
-    "founder_score": 7
-  },
-  {
-    "full_name": "Panagiotis Efthymiou",
-    "linkedin_url": "https://linkedin.com/in/panagiotis-efthymiou-71227527",
-    "education": "",
-    "founder_score": 7
-  },
-  {
-    "full_name": "Panos Dimitropoulos",
-    "linkedin_url": "https://linkedin.com/in/thepdconcept",
-    "education": "[{institutionName:University of Kent,degreeType:Bachelor,fieldOfStudy:Communications and Image Studi",
-    "founder_score": 7
-  },
-  {
-    "full_name": "Leonidas Papadopoulos",
-    "linkedin_url": "https://linkedin.com/in/leonidas-papadopoulos",
-    "education": "[{institutionName:Brentwood College School,degreeType:Level 5 Diploma,fieldOfStudy:Project Managemen",
-    "founder_score": 7
-  },
-  {
-    "full_name": "Inga Dengel",
-    "linkedin_url": "https://linkedin.com/in/ingadengel",
-    "education": "[{institutionName:The Berlin School of Economics and Law,degreeType:Bachelor of Business Administrat",
-    "founder_score": 7
-  },
-  {
-    "full_name": "Dominikos Pritis",
-    "linkedin_url": "https://linkedin.com/in/dominikospritis",
-    "education": "[{institutionName:University of Liverpool,degreeType:Bachelor's degree,fieldOfStudy:Computer Science",
-    "founder_score": 7
-  },
-  {
-    "full_name": "Harry Papadopoulos",
-    "linkedin_url": "https://linkedin.com/in/harry-papadopoulos-253977190",
-    "education": "[{institutionName:Highschool Dropout,timeFrame:2015–2021,startYear:2015,endYear:2021}]",
-    "founder_score": 7
-  },
-  {
-    "full_name": "Ekin Burak O.",
-    "linkedin_url": "https://linkedin.com/in/ekinb",
-    "education": "[{institutionName:Boğaziçi University,degreeType:Bachelor of Science,fieldOfStudy:Computer Engineeri",
-    "founder_score": 7
-  },
-  {
-    "full_name": "Aggelos Kottas",
-    "linkedin_url": "https://linkedin.com/in/aggelos-kottas",
-    "education": "[{institutionName:Technological Educational University Of Athens,degreeType:Master's degree,fieldOfS",
-    "founder_score": 7
-  },
-  {
-    "full_name": "Thodoris Spiliotis",
-    "linkedin_url": "https://linkedin.com/in/thodoris-spiliotis-3479511b3",
-    "education": "",
-    "founder_score": 7
-  },
-  {
-    "full_name": "George Tsiolis",
-    "linkedin_url": "https://linkedin.com/in/geotsiolis",
-    "education": "",
-    "founder_score": 7
-  },
-  {
-    "full_name": "Alina Petri",
-    "linkedin_url": "https://linkedin.com/in/alina-petri-9135005",
-    "education": "[{institutionName:Academia de Studii Economice din București,degreeType:Bachelor's degree,fieldOfStu",
-    "founder_score": 7
-  },
-  {
-    "full_name": "Apostolos Dimitriadis",
-    "linkedin_url": "https://linkedin.com/in/adimi",
-    "education": "[{institutionName:Aristotle University of Thessaloniki (AUTH),degreeType:Ptychio,fieldOfStudy:Physic",
-    "founder_score": 7
-  },
-  {
-    "full_name": "George P.",
-    "linkedin_url": "https://linkedin.com/in/george-onchain",
-    "education": "[{institutionName:Athens State University,degreeType:Bachelor's degree,timeFrame:2014–2015,startYear",
-    "founder_score": 7
-  },
-  {
-    "full_name": "Ioannis Tzanakis",
-    "linkedin_url": "https://linkedin.com/in/ioannis-tzanakis-14508a50",
-    "education": "[{institutionName:Brno University of Technology,degreeType:Bachelor's degree (Erasmus),fieldOfStudy:",
-    "founder_score": 7
-  },
-  {
-    "full_name": "Konstantinos Stamatopoulos",
-    "linkedin_url": "https://linkedin.com/in/konstantinos-stamatopoulos-26a60a54",
-    "education": "[{institutionName:National & Kapodistrian University of Athens}]",
-    "founder_score": 7
-  },
-  {
-    "full_name": "Marios A.",
-    "linkedin_url": "https://linkedin.com/in/andmarios",
-    "education": "[{institutionName:Technical University of Crete,degreeType:Electronics and Computers Engineering,sta",
-    "founder_score": 7
-  },
-  {
-    "full_name": "George Paouris, Msc, Bsc",
-    "linkedin_url": "https://linkedin.com/in/george-paouris-msc-bsc-78b865131",
-    "education": "[{institutionName:2th High School of Nea Smyrni,degreeType:High School,fieldOfStudy:Technology Field",
-    "founder_score": 7
-  },
-  {
-    "full_name": "Apollo G.",
-    "linkedin_url": "https://linkedin.com/in/apollogerolymbos",
-    "education": "[{institutionName:University of Kent,degreeType:BBA,fieldOfStudy:Marketing & Management,timeFrame:20",
-    "founder_score": 7
-  },
-  {
-    "full_name": "Theo Lentzos",
-    "linkedin_url": "https://linkedin.com/in/theo-lentzos-4914b749",
-    "education": "[{institutionName:UCL,degreeType:Bachelor of Science,fieldOfStudy:Economics,timeFrame:1996–1999,star",
-    "founder_score": 7
-  },
-  {
-    "full_name": "Thomas C. Kranitsas",
-    "linkedin_url": "https://linkedin.com/in/thomas-c-kranitsas-58199270",
-    "education": "[{institutionName:Thessaly University of Applied Sciences,degreeType:Bachelor of Engineering,fieldOf",
-    "founder_score": 7
-  },
-  {
-    "full_name": "Artemis Nikolaou",
-    "linkedin_url": "https://linkedin.com/in/artemisnikolaouprofile",
-    "education": "",
-    "founder_score": 7
-  },
-  {
-    "full_name": "Thomas Dais",
-    "linkedin_url": "https://linkedin.com/in/thomas-dais-60aa9343",
-    "education": "[{institutionName:TEI of Patras,degreeType:Accountancy,fieldOfStudy:Accountancy,timeFrame:1992–1995,",
-    "founder_score": 6
-  },
-  {
-    "full_name": "Dr Alkistis Agio",
-    "linkedin_url": "https://linkedin.com/in/dr-alkistis-agio",
-    "education": "[{institutionName:Middlesex University,degreeType:Master's degree,fieldOfStudy:Psychology}]",
-    "founder_score": 6
-  },
-  {
-    "full_name": "Michalis Skardasis",
-    "linkedin_url": "https://linkedin.com/in/michalis-skardasis-720675106",
-    "education": "[{institutionName:Technological Educational Institute of Crete,degreeType:Bachelor's degree,fieldOfS",
-    "founder_score": 6
-  },
-  {
-    "full_name": "Christos Papoukas",
-    "linkedin_url": "https://linkedin.com/in/ryuzeke",
-    "education": "[{institutionName:IEK ALFA,degreeType:Web & videogames developer,timeFrame:2017–2018,startYear:2017,",
-    "founder_score": 6
-  },
-  {
-    "full_name": "Christina Archontaki",
-    "linkedin_url": "https://linkedin.com/in/christina-archontaki-81713b47",
-    "education": "[{institutionName:University of the Aegean,degreeType:Bachelor of Science,fieldOfStudy:organic waste",
-    "founder_score": 6
-  },
-  {
-    "full_name": "Jim Kyriazis",
-    "linkedin_url": "https://linkedin.com/in/jimkyriazis",
-    "education": "",
-    "founder_score": 6
-  },
-  {
-    "full_name": "Elpida M. Livanou",
-    "linkedin_url": "https://linkedin.com/in/elpida-m-livanou-b67aba18a",
-    "education": "[{institutionName:National & Kapodistrian University of Athens,degreeType:Theater Studies,timeFrame:",
-    "founder_score": 6
-  },
-  {
-    "full_name": "Hector G. Kimonides",
-    "linkedin_url": "https://linkedin.com/in/hector-g-kimonides-62a2078",
-    "education": "[{institutionName:The London School of Economics and Political Science (LSE),timeFrame:1995–2000,sta",
-    "founder_score": 6
-  },
-  {
-    "full_name": "Arianna Magnani",
-    "linkedin_url": "https://linkedin.com/in/arianna-magnani",
-    "education": "[{institutionName:Liceo Classico Dante Alighieri,degreeType:High School,fieldOfStudy:Classical and A",
-    "founder_score": 6
-  },
-  {
-    "full_name": "Andreas Lemonis",
-    "linkedin_url": "https://linkedin.com/in/andreas-lemonis-62771169",
-    "education": "[{institutionName:Sheffield Hallam University,degreeType:Extended Degree,fieldOfStudy:Engineering,ti",
-    "founder_score": 6
-  },
-  {
-    "full_name": "Vasilis Gerodimos",
-    "linkedin_url": "https://linkedin.com/in/vasilis-gerodimos-73a744a4",
-    "education": "",
-    "founder_score": 6
-  },
-  {
-    "full_name": "Germano Giansante",
-    "linkedin_url": "https://linkedin.com/in/germanogiansante",
-    "education": "[{institutionName:Università degli Studi 'Gabriele d'Annunzio'​ di Chieti,degreeType:Bachelor's Degr",
-    "founder_score": 6
-  },
-  {
-    "full_name": "Panagiotis Kotsimbos",
-    "linkedin_url": "https://linkedin.com/in/panagiotis-kotsimbos-ab680080",
-    "education": "",
-    "founder_score": 6
-  },
-  {
-    "full_name": "Maria Tsintea",
-    "linkedin_url": "https://linkedin.com/in/maria-tsintea-6a83411a4",
-    "education": "[{institutionName:The American College of Greece,degreeType:BSc in Economics,fieldOfStudy:Economics}",
-    "founder_score": 6
-  },
-  {
-    "full_name": "Ioannis Chavakis Meng, Rev",
-    "linkedin_url": "https://linkedin.com/in/ioannischavakis",
-    "education": "[{institutionName:National Technical University of Athens,degreeType:Surveying Engineering,timeFrame",
-    "founder_score": 6
-  },
-  {
-    "full_name": "Giorgos Kariotakis",
-    "linkedin_url": "https://linkedin.com/in/kariotakis",
-    "education": "[{institutionName:University of Crete,degreeType:Bachelor's degree,fieldOfStudy:Computer Science,sta",
-    "founder_score": 6
-  },
-  {
-    "full_name": "Thanasis Patroudis",
-    "linkedin_url": "https://linkedin.com/in/thanasispatroudis",
-    "education": "[{institutionName:University of Macedonia,degreeType:Bachelor,fieldOfStudy:Economics}]",
-    "founder_score": 6
-  },
-  {
-    "full_name": "Eleni Anagnostopoulou",
-    "linkedin_url": "https://linkedin.com/in/eleni-anagnostopoulou-59756a16b",
-    "education": "",
-    "founder_score": 6
-  },
-  {
-    "full_name": "Carole Topin",
-    "linkedin_url": "https://linkedin.com/in/carole-topin-33682716",
-    "education": "[{institutionName:Académie Charpentier,degreeType:Master's degree,fieldOfStudy:Interior design and d",
-    "founder_score": 6
-  },
-  {
-    "full_name": "George Magkanaris",
-    "linkedin_url": "https://linkedin.com/in/georgemaganaris",
-    "education": "[{institutionName:University of Genoa,degreeType:Bachelor's degree,fieldOfStudy:Civil & Environmenta",
-    "founder_score": 6
-  },
-  {
-    "full_name": "Valia Zacharia",
-    "linkedin_url": "https://linkedin.com/in/valia-zacharia-400a138a",
-    "education": "",
-    "founder_score": 6
-  },
-  {
-    "full_name": "Dimitris - Sotiris Tsolis",
-    "linkedin_url": "https://linkedin.com/in/dstsolis",
-    "education": "[{institutionName:Computer Science and Telecommunications at Technological Educational Institute of ",
-    "founder_score": 6
-  },
-  {
-    "full_name": "Pantelis Kalatzis",
-    "linkedin_url": "https://linkedin.com/in/pantelis-kalatzis-06159537",
-    "education": "",
-    "founder_score": 6
-  },
-  {
-    "full_name": "Georgina Vradi",
-    "linkedin_url": "https://linkedin.com/in/georgina-vradi-7b5696167",
-    "education": "[{institutionName:Charles University,degreeType:Erasmus+,fieldOfStudy:Social Sciences,timeFrame:2017",
-    "founder_score": 6
-  },
-  {
-    "full_name": "Vasileios Christou",
-    "linkedin_url": "https://linkedin.com/in/vasileios-t-christou",
-    "education": "[{institutionName:Aristotle University of Thessaloniki (AUTH),degreeType:Integrated Master,fieldOfSt",
-    "founder_score": 6
-  },
-  {
-    "full_name": "Kyriakos Vasilopoulos",
-    "linkedin_url": "https://linkedin.com/in/kyriakos-vasilopoulos-09910044",
-    "education": "[{institutionName:Middlesex University,degreeType:Bachelor in Business Economics,fieldOfStudy:Econom",
-    "founder_score": 6
-  },
-  {
-    "full_name": "Sophia Vlassi",
-    "linkedin_url": "https://linkedin.com/in/sophia-vlassi-a3513426",
-    "education": "[{institutionName:Ethnikon kai Kapodistriakon Panepistimion Athinon,degreeType:Diploma,fieldOfStudy:",
-    "founder_score": 6
-  },
-  {
-    "full_name": "Konstantina Manta(She/Her)",
-    "linkedin_url": "https://linkedin.com/in/konstantina-manta",
-    "education": "[{institutionName:University of Piraeus,degreeType:Bachelor's Degree,fieldOfStudy:Maritime Studies,t",
-    "founder_score": 6
-  },
-  {
-    "full_name": "Konstantinos Kalamakis",
-    "linkedin_url": "https://linkedin.com/in/kalamakis-konstantinos",
-    "education": "",
-    "founder_score": 6
-  },
-  {
-    "full_name": "Thanassis Giannakelis",
-    "linkedin_url": "https://linkedin.com/in/thanassis-giannakelis-078ba372",
-    "education": "[{institutionName:University of the Aegean,degreeType:Shipping,fieldOfStudy:Trade and Transport Dpt.",
-    "founder_score": 6
-  },
-  {
-    "full_name": "Dionysios Valilis",
-    "linkedin_url": "https://linkedin.com/in/dionysios-valilis-727866166",
-    "education": "[{institutionName:Agricultural University of Athens,degreeType:Master's degree,fieldOfStudy:Agricult",
-    "founder_score": 6
-  },
-  {
-    "full_name": "Aris Goudouras",
-    "linkedin_url": "https://linkedin.com/in/aris-goudouras",
-    "education": "[{institutionName:AUTH,degreeType:Master's degree,fieldOfStudy:Electrical and Computer Engineering,t",
-    "founder_score": 6
-  },
-  {
-    "full_name": "Manos Koukouvios",
-    "linkedin_url": "https://linkedin.com/in/manos-koukouvios-a49843a7",
-    "education": "[{institutionName:Hellenic Merchant marine academy,degreeType:Bachelor's degree,fieldOfStudy:Marine ",
-    "founder_score": 6
-  },
-  {
-    "full_name": "Thomas Kosmas",
-    "linkedin_url": "https://linkedin.com/in/thomas-kosmas-966a10118",
-    "education": "[{institutionName:National Technical University of Athens,degreeType:Electrical and Computer Enginee",
-    "founder_score": 6
-  },
-  {
-    "full_name": "Metaxas Gamvrelis",
-    "linkedin_url": "https://linkedin.com/in/metaxas-gamvrelis-4a47b862",
-    "education": "",
-    "founder_score": 6
-  },
-  {
-    "full_name": "Anna Papoulia",
-    "linkedin_url": "https://linkedin.com/in/anna-papoulia-a13246294",
-    "education": "[{institutionName:Aristotle University of Thessaloniki (AUTH)}]",
-    "founder_score": 6
-  },
-  {
-    "full_name": "Vasilis Skoulakis",
-    "linkedin_url": "https://linkedin.com/in/vasilis-skoulakis",
-    "education": "[{institutionName:Pearson Online Academy UK Global,degreeType:HND,fieldOfStudy:Mechanical Engineerin",
-    "founder_score": 6
-  },
-  {
-    "full_name": "Nancy Love",
-    "linkedin_url": "https://linkedin.com/in/lovenancy",
-    "education": "[{institutionName:Columbia University,degreeType:Bachelor of Arts,fieldOfStudy:French,timeFrame:1998",
-    "founder_score": 6
-  },
-  {
-    "full_name": "George P.",
-    "linkedin_url": "https://linkedin.com/in/george-p-814737308",
-    "education": "[{institutionName:Athens State University,degreeType:Bachelor's degree,timeFrame:2014–2015,startYear",
-    "founder_score": 6
+    "founder_score": 8
   },
   {
     "full_name": "Minas Gattas",
     "linkedin_url": "https://linkedin.com/in/minas-gattas-502ab3256",
     "education": "",
-    "founder_score": 6
+    "founder_score": 8
   },
   {
-    "full_name": "Alfredo Talib��",
-    "linkedin_url": "https://linkedin.com/in/alfredo-iscandar-talib",
-    "education": "[{institutionName:Luiss Guido Carli University,degreeType:Bachelor's degree,fieldOfStudy:Economia,ti",
-    "founder_score": 6
+    "full_name": "Dr. Panagiotis Cheilas",
+    "linkedin_url": "https://linkedin.com/in/dr-panagiotis-cheilas-50b40762",
+    "education": "PhD Energy Economics at National Technical University of Athens",
+    "founder_score": 8
   },
   {
-    "full_name": "Peace Yinjesu Odili",
-    "linkedin_url": "https://linkedin.com/in/peace-yinjesu-odili",
-    "education": "[{institutionName:University of Benin,degreeType:Bachelor of Laws,fieldOfStudy:Law,timeFrame:2008–20",
-    "founder_score": 6
-  },
-  {
-    "full_name": "Christos Kampisios",
-    "linkedin_url": "https://linkedin.com/in/christos-kampisios",
-    "education": "[{institutionName:Thessaly University of Applied Sciences,degreeType:Degree in Computer Science,fiel",
-    "founder_score": 6
-  },
-  {
-    "full_name": "Dimitrios Kaminaris",
-    "linkedin_url": "https://linkedin.com/in/dimitrios-kaminaris-5a9115246",
-    "education": "[{institutionName:Aristotle University of Thessaloniki (AUTH),degreeType:Master of Engineering,field",
-    "founder_score": 6
-  },
-  {
-    "full_name": "Albeta Svorligkou",
-    "linkedin_url": "https://linkedin.com/in/albeta-svorligkou-655a805",
-    "education": "[{institutionName:Lancaster University,degreeType:Master of Science,fieldOfStudy:Operational Researc",
-    "founder_score": 6
-  },
-  {
-    "full_name": "Anastasios Ilias",
-    "linkedin_url": "https://linkedin.com/in/anastasios-ilias-5a755b358",
+    "full_name": "Alexandros Kotsis",
+    "linkedin_url": "https://linkedin.com/in/alexandros-kotsis",
     "education": "",
-    "founder_score": 6
+    "founder_score": 8
+  },
+  {
+    "full_name": "Panos Moschos",
+    "linkedin_url": "https://linkedin.com/in/panosmoschos",
+    "education": "Bachelor's degree Computer Science at Athens University of Economics and Business",
+    "founder_score": 8
+  },
+  {
+    "full_name": "Dimitris Theodoropoulos",
+    "linkedin_url": "https://linkedin.com/in/dimitris-s-theodoropoulos",
+    "education": "Bachelor of Science Business Economics with Computing at University of Surrey",
+    "founder_score": 8
+  },
+  {
+    "full_name": "Ioannis Karvouniaris",
+    "linkedin_url": "https://linkedin.com/in/ioannis-karvouniaris-5b6a4b312",
+    "education": "Bachelor of Medicine Bachelor of Surgery - MBBS at National & Kapodistrian University of Athens",
+    "founder_score": 8
+  },
+  {
+    "full_name": "Vasilis Ntinopoulos",
+    "linkedin_url": "https://linkedin.com/in/vasilisntinopoulos",
+    "education": "Computer Science startYear at Hellenic Open University",
+    "founder_score": 8
+  },
+  {
+    "full_name": "Xenofon Mitakidis",
+    "linkedin_url": "https://linkedin.com/in/xenofon-mitakidis",
+    "education": "Master of Business Administration - MBA startYear at INSEAD",
+    "founder_score": 8
+  },
+  {
+    "full_name": "Nikolas Almpanis",
+    "linkedin_url": "https://linkedin.com/in/nikolas-almpanis-b0b51218",
+    "education": "Master Digital Art at University of the Arts London",
+    "founder_score": 8
+  },
+  {
+    "full_name": "Anastasios Laskos",
+    "linkedin_url": "https://linkedin.com/in/constantinelangdon",
+    "education": "MSc Information Security at Royal Holloway, University of London",
+    "founder_score": 8
   },
   {
     "full_name": "George Arvanitis",
     "linkedin_url": "https://linkedin.com/in/george-arvanitis-5a96b5268",
-    "education": "[{institutionName:University of West Attica,degreeType:Master's degree,fieldOfStudy:Computer Enginee",
-    "founder_score": 6
+    "education": "Master's degree Computer Engineering at University of West Attica",
+    "founder_score": 8
+  },
+  {
+    "full_name": "Stathis Konstantinou",
+    "linkedin_url": "https://linkedin.com/in/stathis-konstantinou-9a3159166",
+    "education": "",
+    "founder_score": 8
   },
   {
     "full_name": "Konstantinos Chatzistavrou",
     "linkedin_url": "https://linkedin.com/in/konstantinos-chatzistavrou",
-    "education": "[{institutionName:Greek high school,timeFrame:2021–2025,startYear:2021,endYear:2025},{institutionNam",
-    "founder_score": 6
+    "education": "",
+    "founder_score": 8
   },
   {
     "full_name": "Andreas Stratakis",
     "linkedin_url": "https://linkedin.com/in/astratakis",
-    "education": "[{institutionName:Technical University of Crete,degreeType:Master of Engineering,fieldOfStudy:Comput",
-    "founder_score": 6
+    "education": "Master of Engineering - MEng Computer Engineering at Technical University of Crete",
+    "founder_score": 8
   },
   {
-    "full_name": "Michail Chatzis",
-    "linkedin_url": "https://linkedin.com/in/michail-chatzis-46606a186",
-    "education": "[{institutionName:University of Cyprus,degreeType:Accounting and Finance,fieldOfStudy:Finance Major,",
-    "founder_score": 6
+    "full_name": "Χρήστος Μουρελάτος",
+    "linkedin_url": "https://linkedin.com/in/christos-mourelatos",
+    "education": "Master's degree Data Science at International Hellenic University",
+    "founder_score": 8
+  },
+  {
+    "full_name": "Christopher Papanastasiou",
+    "linkedin_url": "https://linkedin.com/in/christopher-papanastasiou-13b85185",
+    "education": "",
+    "founder_score": 8
+  },
+  {
+    "full_name": "Elizabeth Paulina Farkas",
+    "linkedin_url": "https://linkedin.com/in/elizabethfarkas",
+    "education": "Master's degree Business Administration and Management, General at Imperial Business School",
+    "founder_score": 8
+  },
+  {
+    "full_name": "Nikos Tsarknias",
+    "linkedin_url": "https://linkedin.com/in/nikostsarknias",
+    "education": "Master of Science Sustainable Energy at DTU - Technical University of Denmark",
+    "founder_score": 8
+  },
+  {
+    "full_name": "Vasileios Flegkas Ceng Mcibse",
+    "linkedin_url": "https://linkedin.com/in/vasileios-flegkas-ceng-mcibse-01256354",
+    "education": "",
+    "founder_score": 8
+  },
+  {
+    "full_name": "Christos Kouros",
+    "linkedin_url": "https://linkedin.com/in/christos-kouros-a47219223",
+    "education": "Master's degree Data & Web Science at Aristotle University of Thessaloniki (AUTH)",
+    "founder_score": 8
+  },
+  {
+    "full_name": "Moris Kalderon",
+    "linkedin_url": "https://linkedin.com/in/moris-kalderon",
+    "education": "",
+    "founder_score": 8
+  },
+  {
+    "full_name": "Heidi Kalske-Akintobi",
+    "linkedin_url": "https://linkedin.com/in/heidi-kalske-akintobi-38065492",
+    "education": "",
+    "founder_score": 8
+  },
+  {
+    "full_name": "Artemis Nikolaou",
+    "linkedin_url": "https://linkedin.com/in/artemisnikolaouprofile",
+    "education": "",
+    "founder_score": 8
+  },
+  {
+    "full_name": "George Tsirogiannis",
+    "linkedin_url": "https://linkedin.com/in/georgetsirogiannis",
+    "education": "Bachelor's Degree Film Directing at IEK AKMI",
+    "founder_score": 7
+  },
+  {
+    "full_name": "Christina Karasarli, Mba, Mics",
+    "linkedin_url": "https://linkedin.com/in/christina-karasarli",
+    "education": "MBA International Business at Athens University of Economics and Business",
+    "founder_score": 7
+  },
+  {
+    "full_name": "Nikoletta Konstantara",
+    "linkedin_url": "https://linkedin.com/in/nikoletta-konstantara-19bb15146",
+    "education": "B.Sc Accounting and Finance at National Kapodistrian University of Athens",
+    "founder_score": 7
+  },
+  {
+    "full_name": "Panos Pantazos",
+    "linkedin_url": "https://linkedin.com/in/panos-pantazos-6960111a9",
+    "education": "",
+    "founder_score": 7
+  },
+  {
+    "full_name": "Arnaud Zerdab",
+    "linkedin_url": "https://linkedin.com/in/arnaud-zerdab-2b968a139",
+    "education": "Technical Associate's Degree Building/Construction Site Management/Manager at AFPA",
+    "founder_score": 7
+  },
+  {
+    "full_name": "Konstantinos Kougioufas",
+    "linkedin_url": "https://linkedin.com/in/konstantinos-kougioufas-04b384109",
+    "education": "",
+    "founder_score": 7
+  },
+  {
+    "full_name": "Amin Rakhshani",
+    "linkedin_url": "https://linkedin.com/in/amin-rakhshani",
+    "education": "",
+    "founder_score": 7
+  },
+  {
+    "full_name": "Angeliki Papoutsi",
+    "linkedin_url": "https://linkedin.com/in/papoutsiangeliki",
+    "education": "",
+    "founder_score": 7
+  },
+  {
+    "full_name": "Vicky Souti",
+    "linkedin_url": "https://linkedin.com/in/vickysouti",
+    "education": "Architecture - Built Environment - Interiors Architecture at Politecnico di Milano",
+    "founder_score": 7
+  },
+  {
+    "full_name": "Dimitris Polygenis",
+    "linkedin_url": "https://linkedin.com/in/dimitris-polygenis-93034387",
+    "education": "",
+    "founder_score": 7
+  },
+  {
+    "full_name": "Konstantinos Kompogiannis",
+    "linkedin_url": "https://linkedin.com/in/konstantinos-kompogiannis-99b478209",
+    "education": "",
+    "founder_score": 7
+  },
+  {
+    "full_name": "Thanassis Giannakelis",
+    "linkedin_url": "https://linkedin.com/in/thanassis-giannakelis-078ba372",
+    "education": "",
+    "founder_score": 7
+  },
+  {
+    "full_name": "Gabriella Arvaniti",
+    "linkedin_url": "https://linkedin.com/in/gabriella-arvaniti-877a45236",
+    "education": "",
+    "founder_score": 7
+  },
+  {
+    "full_name": "Harry Papadopoulos",
+    "linkedin_url": "https://linkedin.com/in/harry-papadopoulos-253977190",
+    "education": "",
+    "founder_score": 7
+  },
+  {
+    "full_name": "Spiros Economakis",
+    "linkedin_url": "https://linkedin.com/in/spirosoik",
+    "education": "MSc Digital Communications and Networks at University of Piraeus",
+    "founder_score": 7
+  },
+  {
+    "full_name": "George P.",
+    "linkedin_url": "https://linkedin.com/in/george-p-814737308",
+    "education": "",
+    "founder_score": 7
+  },
+  {
+    "full_name": "Christos Kampisios",
+    "linkedin_url": "https://linkedin.com/in/christos-kampisios",
+    "education": "",
+    "founder_score": 7
+  },
+  {
+    "full_name": "George P.",
+    "linkedin_url": "https://linkedin.com/in/george-onchain",
+    "education": "Bachelor's degree timeFrame at Athens State University",
+    "founder_score": 7
+  },
+  {
+    "full_name": "Dimitris Papadimas",
+    "linkedin_url": "https://linkedin.com/in/dimitrispapadiimas",
+    "education": "",
+    "founder_score": 7
+  },
+  {
+    "full_name": "Petros Tsomos",
+    "linkedin_url": "https://linkedin.com/in/petros-tsomos",
+    "education": "",
+    "founder_score": 7
   },
   {
     "full_name": "Achilleas Katsoulis",
     "linkedin_url": "https://linkedin.com/in/achilleas-katsoulis-403a05203",
-    "education": "[{institutionName:University of Applied Sciences Emden/Leer,degreeType:Bachelor's degree,timeFrame:2",
-    "founder_score": 6
+    "education": "Bachelor's degree ELECTRICAL ENGINEERING at Technologiko Ekpaideutiko Idrima, Kavalas",
+    "founder_score": 7
   },
   {
-    "full_name": "Claudia Torres",
-    "linkedin_url": "https://linkedin.com/in/claudia-torres-925990307",
-    "education": "[{institutionName:Sapienza Università di Roma,degreeType:Master's degree,fieldOfStudy:Literature and",
-    "founder_score": 6
+    "full_name": "Georgios Kolimitras",
+    "linkedin_url": "https://linkedin.com/in/georgios-kolimitras-a2a419aa",
+    "education": "Master's degree Architecture and Engineering at National Technical University of Athens",
+    "founder_score": 7
   },
   {
-    "full_name": "Vasileios Zacharias",
-    "linkedin_url": "https://linkedin.com/in/vasileioszacharias",
-    "education": "[{institutionName:National & Kapodistrian University of Athens,degreeType:Bachelor of Commerce,field",
-    "founder_score": 6
-  },
-  {
-    "full_name": "Spyros Ferentinos",
-    "linkedin_url": "https://linkedin.com/in/spyros-ferentinos-248b4b63",
-    "education": "[{institutionName:University of Piraeus,degreeType:Bachelor's Degree,fieldOfStudy:Digital Systems,ti",
-    "founder_score": 5
-  },
-  {
-    "full_name": "Θέκλη Θεοδοσίου",
-    "linkedin_url": "https://linkedin.com/in/thekleetheodosiou",
-    "education": "[{institutionName:Ant1medialab,degreeType:Public Relations and Communications,timeFrame:2014–2016,st",
-    "founder_score": 5
-  },
-  {
-    "full_name": "Evangelia Zervou",
-    "linkedin_url": "https://linkedin.com/in/evangelia-zervou-594559125",
-    "education": "[{institutionName:Democritus University of Thrace,degreeType:Master of Science,fieldOfStudy:Internat",
-    "founder_score": 5
-  },
-  {
-    "full_name": "Eleni Touna",
-    "linkedin_url": "https://linkedin.com/in/eleni-touna",
+    "full_name": "Aggelos Kostas",
+    "linkedin_url": "https://linkedin.com/in/aggelos-kostas-876447232",
     "education": "",
-    "founder_score": 5
+    "founder_score": 7
   },
   {
-    "full_name": "Sandra Dimara",
-    "linkedin_url": "https://linkedin.com/in/sandra-dimara-757a15145",
-    "education": "[{institutionName:ELKEPA,degreeType:Business Administration,fieldOfStudy:Management and Operations,t",
-    "founder_score": 5
+    "full_name": "Jason Psarras",
+    "linkedin_url": "https://linkedin.com/in/jasonpsarras",
+    "education": "Master's degree Marketing at The London School of Economics and Political Science (LSE)",
+    "founder_score": 7
   },
   {
-    "full_name": "Christina - Olympia Iliadou",
-    "linkedin_url": "https://linkedin.com/in/christina-olympia-iliadou-1b6814207",
-    "education": "[{institutionName:University of Thessaly,degreeType:Integrated Master,fieldOfStudy:Aquaculture Scien",
-    "founder_score": 5
-  },
-  {
-    "full_name": "Nikos Chronakis",
-    "linkedin_url": "https://linkedin.com/in/nikos-chronakis-7b7926170",
+    "full_name": "Ilias Orfanos",
+    "linkedin_url": "https://linkedin.com/in/ilias-orfanos",
     "education": "",
-    "founder_score": 5
+    "founder_score": 7
   },
   {
-    "full_name": "Areti Tsiftsi",
-    "linkedin_url": "https://linkedin.com/in/areti-tsiftsi-543349119",
-    "education": "[{institutionName:University of Patras,degreeType:Bachelor of Philosophy,timeFrame:2004–2009,startYe",
-    "founder_score": 5
+    "full_name": "Athanasios Chonias",
+    "linkedin_url": "https://linkedin.com/in/athanasios-chonias",
+    "education": "Application/Software Specialist Information Technology at IEK Diolkos",
+    "founder_score": 7
   },
   {
-    "full_name": "Polina Pachiou",
-    "linkedin_url": "https://linkedin.com/in/polina-pachiou-b67b28209",
-    "education": "[{institutionName:Athens University of Economics and Business,degreeType:Bachelor's degree,fieldOfSt",
-    "founder_score": 5
-  },
-  {
-    "full_name": "Stefanos Bellos",
-    "linkedin_url": "https://linkedin.com/in/stefanosmpellos",
-    "education": "[{institutionName:University of Piraeus,degreeType:Maritime Studies,timeFrame:2021–2025,startYear:20",
-    "founder_score": 5
+    "full_name": "Andreas G. Kanellopoulos",
+    "linkedin_url": "https://linkedin.com/in/andreas-g-kanellopoulos-9a6a87170",
+    "education": "Bachelor's degree Economics at University of Piraeus",
+    "founder_score": 6
   },
   {
     "full_name": "George Pylarinos",
     "linkedin_url": "https://linkedin.com/in/george-pylarinos-8ab27353",
-    "education": "[{institutionName:University of Patras,degreeType:Master's degree,fieldOfStudy:Civil Engineering,tim",
-    "founder_score": 5
+    "education": "",
+    "founder_score": 6
   },
   {
-    "full_name": "Jay Prodan",
-    "linkedin_url": "https://linkedin.com/in/jay-prodan-3929b52b2",
-    "education": "[{institutionName:Empire State University}]",
-    "founder_score": 5
-  },
-  {
-    "full_name": "Vasiliki Kiritsi",
-    "linkedin_url": "https://linkedin.com/in/vasiliki-kiritsi-631151334",
-    "education": "[{institutionName:University of the Aegean,degreeType:Bachelor of Science,fieldOfStudy:Mathematics}]",
-    "founder_score": 5
+    "full_name": "Afifa B. Salah",
+    "linkedin_url": "https://linkedin.com/in/afifa-phoenix",
+    "education": "",
+    "founder_score": 6
   },
   {
     "full_name": "Teo Ntaflos",
@@ -702,351 +564,9 @@
     "founder_score": 5
   },
   {
-    "full_name": "Nikos Koultoukis",
-    "linkedin_url": "https://linkedin.com/in/nikos-koultoukis-48350b311",
-    "education": "[{institutionName:International Hellenic University,degreeType:Integrated Master,fieldOfStudy:Comput",
-    "founder_score": 5
-  },
-  {
-    "full_name": "Konstantinos S.",
-    "linkedin_url": "https://linkedin.com/in/konstantinos-s-0b469b26b",
-    "education": "[{institutionName:Athens University of Economics and Business,degreeType:Bachelor's degree,fieldOfSt",
-    "founder_score": 5
-  },
-  {
-    "full_name": "Aggelos Kostas",
-    "linkedin_url": "https://linkedin.com/in/aggelos-kostas-876447232",
-    "education": "[{institutionName:University of Ioannina,degreeType:Bachelor's degree,fieldOfStudy:Computer Science,",
-    "founder_score": 5
-  },
-  {
-    "full_name": "Konstantinos Chatziioannou",
-    "linkedin_url": "https://linkedin.com/in/chatziioannou03",
-    "education": "[{institutionName:University of Ioannina,degreeType:Computer Science and Engineering,timeFrame:2021–",
-    "founder_score": 5
-  },
-  {
-    "full_name": "Maria Bothos",
-    "linkedin_url": "https://linkedin.com/in/mariabothos",
-    "education": "[{institutionName:Hunter College,degreeType:Bachelor of Arts,fieldOfStudy:English/Secondary Educatio",
-    "founder_score": 4
-  },
-  {
-    "full_name": "Spyros Mpalitsas",
-    "linkedin_url": "https://linkedin.com/in/spyros-mpalitsas-502bb2306",
-    "education": "[{institutionName:Democritus University of Thrace - (D.U.Th.),degreeType:Bachelor's degree,fieldOfSt",
-    "founder_score": 4
-  },
-  {
-    "full_name": "Giannis Arampatzis",
-    "linkedin_url": "https://linkedin.com/in/giannis-arampatzis-b12aa6267",
-    "education": "[{institutionName:University of the Aegean,degreeType:Bachelor of Business Administration,fieldOfStu",
-    "founder_score": 4
-  },
-  {
-    "full_name": "Elena-Nicol Basmatzidis",
-    "linkedin_url": "https://linkedin.com/in/elena-nicol-basmatzidis-65236818b",
-    "education": "",
-    "founder_score": 3
-  },
-  {
-    "full_name": "Mixalis Takos",
-    "linkedin_url": "https://linkedin.com/in/mixalis-takos-01613b233",
-    "education": "",
-    "founder_score": 3
-  },
-  {
-    "full_name": "Lefteris Anastasatos",
-    "linkedin_url": "https://linkedin.com/in/lefteris-anastasatos-b4572323b",
-    "education": "",
-    "founder_score": 1
-  },
-  {
     "full_name": "Vasileios Chortomanis",
     "linkedin_url": "https://linkedin.com/in/vasileioschortomanis",
     "education": "",
-    "founder_score": 1
-  },
-  {
-    "full_name": "Amir Gvili",
-    "linkedin_url": "https://linkedin.com/in/amir-gvili",
-    "education": "[{institutionName:Google}]",
-    "founder_score": 0
-  },
-  {
-    "full_name": "Arthur Bourekas",
-    "linkedin_url": "https://linkedin.com/in/arthurbourekas",
-    "education": "[{institutionName:La Trobe University,degreeType:Bachelor of Economics,fieldOfStudy:Economics",
-    "founder_score": null
-  },
-  {
-    "full_name": "Georgios Stergiou - Phd Candidate, Onemba, Beng (Hons)",
-    "linkedin_url": "https://linkedin.com/in/georgiosstergiou",
-    "education": "[{institutionName:City St George's",
-    "founder_score": null
-  },
-  {
-    "full_name": "Giannis Stoubos",
-    "linkedin_url": "https://linkedin.com/in/giannis-stoubos-001b9166",
-    "education": "[{institutionName:University of Patras,degreeType:Diploma (BEng",
-    "founder_score": null
-  },
-  {
-    "full_name": "Krassimir Tanev",
-    "linkedin_url": "https://linkedin.com/in/krassimir-tanev-20ba8a17",
-    "education": "[{institutionName:Bulgarian Air Force Academy - G. Benkovski",
-    "founder_score": null
-  },
-  {
-    "full_name": "Stelios Nikolidakis",
-    "linkedin_url": "https://linkedin.com/in/steliosnikolidakis",
-    "education": "[{institutionName:Royal Holloway",
-    "founder_score": null
-  },
-  {
-    "full_name": "Amin Rakhshani",
-    "linkedin_url": "https://linkedin.com/in/amin-rakhshani",
-    "education": "[{institutionName:Aristotle University of Thessaloniki (AUTH),degreeType:Master of Science,fieldOfSt",
-    "founder_score": null
-  },
-  {
-    "full_name": "Nikos Petropoulos",
-    "linkedin_url": "https://linkedin.com/in/nikos-petropoulos-78796432",
-    "education": "[{institutionName:University of West Attica,degreeType:Bachelor's degree,fieldOfStudy:Design and Vis",
-    "founder_score": null
-  },
-  {
-    "full_name": "Simina Farcasiu",
-    "linkedin_url": "https://linkedin.com/in/siminafarcasiu",
-    "education": "[{institutionName:Ruhr University Bochum,degreeType:International Business,endYear:2001,timeFrame:20",
-    "founder_score": null
-  },
-  {
-    "full_name": "Stavros Sioutis",
-    "linkedin_url": "https://linkedin.com/in/stavros-sioutis-069702a9",
-    "education": "[{institutionName:ETH Zürich,degreeType:Master of Science,fieldOfStudy:Technology and Economics",
-    "founder_score": null
-  },
-  {
-    "full_name": "Marina Lavranou, Mrics",
-    "linkedin_url": "https://linkedin.com/in/marina-lavranou-mrics-080b9a2a",
-    "education": "[{institutionName:Panteion University of Social and Political Studies",
-    "founder_score": null
-  },
-  {
-    "full_name": "Harry Kastanas",
-    "linkedin_url": "https://linkedin.com/in/harrykastanas",
-    "education": "[{institutionName:TVL - West Athens - Greece,degreeType:Diploma of Education,fieldOfStudy:Electrical",
-    "founder_score": null
-  },
-  {
-    "full_name": "Pavlos Davos",
-    "linkedin_url": "https://linkedin.com/in/pavlos-davos-56470198",
-    "education": "[{institutionName:Athens University of Economics and Business,degreeType:Bachelor of Science,fieldOf",
-    "founder_score": null
-  },
-  {
-    "full_name": "Tarık Dutkuner",
-    "linkedin_url": "https://linkedin.com/in/tarikdutkuner",
-    "education": "[{institutionName:Koç University,degreeType:Bachelor's degree,fieldOfStudy:Economics",
-    "founder_score": null
-  },
-  {
-    "full_name": "Bill Germanakis",
-    "linkedin_url": "https://linkedin.com/in/bill-germanakis-565706130",
-    "education": "[{institutionName:Technologiko Ekpaideutiko Idrima",
-    "founder_score": null
-  },
-  {
-    "full_name": "Vasileios Geronikolas",
-    "linkedin_url": "https://linkedin.com/in/vasileios-geronikolas-48892625",
-    "education": "[{institutionName:Technologiko Ekpaideutiko Idrima",
-    "founder_score": null
-  },
-  {
-    "full_name": "Spiros Antonatos",
-    "linkedin_url": "https://linkedin.com/in/antonatos",
-    "education": "[{institutionName:Computer Science Department",
-    "founder_score": null
-  },
-  {
-    "full_name": "Nikolas Almpanis",
-    "linkedin_url": "https://linkedin.com/in/nikolas-almpanis-b0b51218",
-    "education": "[{institutionName:Accademy of Fine Arts",
-    "founder_score": null
-  },
-  {
-    "full_name": "Anastasios Laskos",
-    "linkedin_url": "https://linkedin.com/in/constantinelangdon",
-    "education": "[{institutionName:University of Sunderland,degreeType:Bachelor of Science,fieldOfStudy:Network Compu",
-    "founder_score": null
-  },
-  {
-    "full_name": "Tarık Dutkuner",
-    "linkedin_url": "https://linkedin.com/in/dutkuner",
-    "education": "[{institutionName:Koç University,degreeType:Bachelor's degree,fieldOfStudy:Economics",
-    "founder_score": null
-  },
-  {
-    "full_name": "George Belsis",
-    "linkedin_url": "https://linkedin.com/in/george-belsis-28070151",
-    "education": "[{institutionName:Strathclyde Business School",
-    "founder_score": null
-  },
-  {
-    "full_name": "Jason Psarras",
-    "linkedin_url": "https://linkedin.com/in/jasonpsarras",
-    "education": "[{institutionName:Panteion University of Social and Political Sciences,degreeType:Bachelor's degree,",
-    "founder_score": null
-  },
-  {
-    "full_name": "Dessi Dimova",
-    "linkedin_url": "https://linkedin.com/in/dessipalogos",
-    "education": "[{institutionName:Foreign Language School \\Prof. Dr. Assen Zlatarov\\",
-    "founder_score": null
-  },
-  {
-    "full_name": "George Tsirogiannis",
-    "linkedin_url": "https://linkedin.com/in/georgetsirogiannis",
-    "education": "[{institutionName:Dept. of Audiovisual Arts",
-    "founder_score": null
-  },
-  {
-    "full_name": "Ioannis Moraitis",
-    "linkedin_url": "https://linkedin.com/in/ioannismoraitis",
-    "education": "[{institutionName:Maastricht University,degreeType:Master's Degree,fieldOfStudy:European Studies",
-    "founder_score": null
-  },
-  {
-    "full_name": "Lefteris Sarris",
-    "linkedin_url": "https://linkedin.com/in/lefteris-sarris-5a8a6754",
-    "education": "[{institutionName:University of Aegean,degreeType:Bachelor's Degree,fieldOfStudy:Shipping",
-    "founder_score": null
-  },
-  {
-    "full_name": "Paola Koundourioti",
-    "linkedin_url": "https://linkedin.com/in/paolak",
-    "education": "[{institutionName:Echols International Travel & Hotel School,degreeType:Hotel Management,fieldOfStud",
-    "founder_score": null
-  },
-  {
-    "full_name": "Konstantinos Christopoulos",
-    "linkedin_url": "https://linkedin.com/in/konstantinos-christopoulos-04072513b",
-    "education": "[{institutionName:National Technical University of Athens,degreeType:Integrated Master,fieldOfStudy:",
-    "founder_score": null
-  },
-  {
-    "full_name": "Vicky Souti",
-    "linkedin_url": "https://linkedin.com/in/vickysouti",
-    "education": "[{institutionName:2nd High School of Argostoli",
-    "founder_score": null
-  },
-  {
-    "full_name": "Camilla Carpenter",
-    "linkedin_url": "https://linkedin.com/in/camilla-carpenter-943826164",
-    "education": "[{institutionName:Liceo Ginnasio Statale G. B. Brocchi,degreeType:High School Diploma,fieldOfStudy:F",
-    "founder_score": null
-  },
-  {
-    "full_name": "Dimitrios Tsouvalas",
-    "linkedin_url": "https://linkedin.com/in/dimitrios-tsouvalas",
-    "education": "[{institutionName:Technical High School at Moudros Lemnos,degreeType:High school diploma,fieldOfStud",
-    "founder_score": null
-  },
-  {
-    "full_name": "Antonina Krokhina",
-    "linkedin_url": "https://linkedin.com/in/antonina-krokhina-9224b743",
-    "education": "[{institutionName:Istituto Marangoni",
-    "founder_score": null
-  },
-  {
-    "full_name": "Nicholas S.",
-    "linkedin_url": "https://linkedin.com/in/nicholas-s-b0b3b561",
-    "education": "[{institutionName:Geitonas School",
-    "founder_score": null
-  },
-  {
-    "full_name": "Dimosthenis Tzortzakakis",
-    "linkedin_url": "https://linkedin.com/in/dimosthenis-tzortzakakis-0138aa204",
-    "education": "[{institutionName:Reykjavik University,degreeType:Exchange Semester,fieldOfStudy:Business Administra",
-    "founder_score": null
-  },
-  {
-    "full_name": "Giorgos Velimvasakis",
-    "linkedin_url": "https://linkedin.com/in/velimvasakisgiorgoseumetron",
-    "education": "[{institutionName:DUTH POLITECHNIC SCHOOL,degreeType:Civil Engineer,fieldOfStudy:Structural Engineer",
-    "founder_score": null
-  },
-  {
-    "full_name": "Gabriella Arvaniti",
-    "linkedin_url": "https://linkedin.com/in/gabriella-arvaniti-877a45236",
-    "education": "[{institutionName:University of West Attica,degreeType:Bachelor's degree,fieldOfStudy:Marketing/Mark",
-    "founder_score": null
-  },
-  {
-    "full_name": "Nelly Davtyan",
-    "linkedin_url": "https://linkedin.com/in/nelly-davtyan-3566672b",
-    "education": "[{institutionName:Eurasia International University,degreeType:Bachelor's degree,fieldOfStudy:Finance",
-    "founder_score": null
-  },
-  {
-    "full_name": "Antoine Antoniadis",
-    "linkedin_url": "https://linkedin.com/in/antoine-antoniadis",
-    "education": "[{institutionName:Royal Holloway",
-    "founder_score": null
-  },
-  {
-    "full_name": "Ioannis Kampiotis",
-    "linkedin_url": "https://linkedin.com/in/ioanniskampiotis",
-    "education": "[{institutionName:Technical Vocational School,degreeType:Electronic & Computer Systems,fieldOfStudy:",
-    "founder_score": null
-  },
-  {
-    "full_name": "Dimitris Papadimas",
-    "linkedin_url": "https://linkedin.com/in/dimitrispapadiimas",
-    "education": "[{institutionName:2nd Senior High School of Nea Filadelfeia",
-    "founder_score": null
-  },
-  {
-    "full_name": "Petros Tsomos",
-    "linkedin_url": "https://linkedin.com/in/petros-tsomos",
-    "education": "[{institutionName:Panteion University of Social and Political Sciences,degreeType:Master's degree,fi",
-    "founder_score": null
-  },
-  {
-    "full_name": "Stylianos Pyrrostis",
-    "linkedin_url": "https://linkedin.com/in/stylianos-pyrrostis-50147934",
-    "education": "[{institutionName:NCO Military School,degreeType:Αποφοιτος Σ.Μ.Υ. Τάξη ´86,fieldOfStudy:Στρατιωτικές",
-    "founder_score": null
-  },
-  {
-    "full_name": "Arnaud Zerdab",
-    "linkedin_url": "https://linkedin.com/in/arnaud-zerdab-2b968a139",
-    "education": "[{institutionName:Etienne Restat,degreeType:Technical degree,fieldOfStudy:Biology/Biological Science",
-    "founder_score": null
-  },
-  {
-    "full_name": "Evangelia Michailidou",
-    "linkedin_url": "https://linkedin.com/in/evamichailidou",
-    "education": "[{institutionName:University of Thessaly,degreeType:Bachelor's degree,fieldOfStudy:History",
-    "founder_score": null
-  },
-  {
-    "full_name": "Panagiotis Asimakis",
-    "linkedin_url": "https://linkedin.com/in/panagiotisasimakis",
-    "education": "[{institutionName:2ο Τ.Ε.Λ Περιστεριου,degreeType:Υπαλληλος Λογιστηριου,fieldOfStudy:Business Admini",
-    "founder_score": null
-  },
-  {
-    "full_name": "Zoi Ikonomou",
-    "linkedin_url": "https://linkedin.com/in/zoi-ikonomou-7895b23b",
-    "education": "[{institutionName:IONIAN UNIVERSITY",
-    "founder_score": null
-  },
-  {
-    "full_name": "Vasilis Karazeris",
-    "linkedin_url": "https://linkedin.com/in/vasilis-karazeris-704912193",
-    "education": "[{institutionName:Greek Open University,degreeType:Bachelor of Business Administration,fieldOfStudy:",
-    "founder_score": null
+    "founder_score": 2
   }
 ]
